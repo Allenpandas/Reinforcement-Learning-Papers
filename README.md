@@ -7,10 +7,7 @@
 
 - **[31st IJCAI 2022]** Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022. [[Accepted Papers]](./2022/2022-IJCAI)
 - **[39th ICML 2022]** International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA. [[Accepted Papers](./2022/2022-ICML)]
-  <!--[**AAAI2022** Accepted Papers](./2022/2022-AAAI)（AAAI Conference on Artificial Intelligence, AAAI）-->
-  <!--**AAMAS2022** Accepted Papers（Autonomous Agents and Multi-Agent Systems, AAMAS）-->
-  <!--**ICLR2022** Accepted Papers （International Conference on Learning Representations, ICLR）-->
-  <!--**ICRA2022** Accepted Papers （IEEE InternationalConference on Robotics and Automation, ICRA)-->
+- **[36th AAAI 2022]** Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022, Virtual Event, February 22 - March 1, 2022.
 
 **2021年：**
 
