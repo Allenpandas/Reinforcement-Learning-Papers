@@ -1,5 +1,5 @@
 # Awesome-Reinforcement-Learning-Papers
-🔨强化学习方向顶会文章 | Top Conference Papers on Reinforcement Learning(RL)
+🔨List of Top-tier Conference Papers on Reinforcement Learning (RL)，including: NeurIPS, AAAI, IJCAI, ICML, AAMAS, ICLR, ICRA, etc. | 强化学习方向顶会文章（持续更新）
 
 
 
