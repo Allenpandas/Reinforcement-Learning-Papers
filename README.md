@@ -4,7 +4,7 @@
 **2023年：**
 
 - **[22st AAMAS 2023]** Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023. [[Accepted Papers]](./2023/2023-AAMAS)
-- **[40th ICML 2023]** International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA. [[Accepted Papers](./2022/2022-ICML)]
+- **[40th ICML 2023]** International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA. [[Accepted Papers](./2023/2023-ICML)]
 - **[ICRA 2023]** 2023 International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023. [[Accepted Papers]](./2023/2023-ICRA)
 
 - **[32st IJCAI 2023]** Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023, 19th-25th August 2023, Macao, SAR, China. [[Accepted Papers]](./2023/2023-IJCAI)
