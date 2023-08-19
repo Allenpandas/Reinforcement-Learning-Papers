@@ -3,7 +3,7 @@
 
 **2023年：**
 
-- **[37th AAAI 2023]** Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023. [[Accepted Papers](./2022/2022-AAAI)]
+- **[37th AAAI 2023]** Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023. [[Accepted Papers](./2023/2023-AAAI)]
 - **[22st AAMAS 2023]** Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023. [[Accepted Papers]](./2023/2023-AAMAS)
 - **[11th ICLR 2023]** The Eleventh International Conference on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023. [[Accepted Papers]](./2023/2023-ICLR)
 - **[40th ICML 2023]** International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA. [[Accepted Papers](./2023/2023-ICML)]
