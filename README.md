@@ -1,7 +1,9 @@
 # Awesome-Reinforcement-Learning-Papers
 🔨List of Top-tier Conference Papers on Reinforcement Learning (RL)，including: NeurIPS, AAAI, IJCAI, ICML, AAMAS, ICLR, ICRA, etc. | 强化学习方向顶会文章（持续更新）
 
+**2023年：**
 
+- **[32st IJCAI 2023]** Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2023, 19th-25th August 2023, Macao, SAR, China. [[Accepted Papers]](./2023/2023-IJCAI)
 
 **2022年：**
 
