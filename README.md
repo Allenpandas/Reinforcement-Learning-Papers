@@ -18,6 +18,7 @@
 - **[39th ICML 2022]** International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA. [[Accepted Papers](./2022/2022-ICML)]
 - **[ICRA 2022]** 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022. [[Accepted Papers]](./2022/2022-ICRA)
 - **[31st IJCAI 2022]** Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022. [[Accepted Papers]](./2022/2022-IJCAI)
+- **[36th NIPS 2022]** Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 - December 9, 2022. [[Accepted Papers]](./2022/2022-NIPS)
 
 **2021年：**
 
