@@ -7,7 +7,8 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 
 ## News
 
-- 2023/10/10: I initialize the repository and add papers.
+- 2023/8/19: I added papers accepted at AAMAS'23, IJCAI'23, ICRA'23, ICML-23,ICLR'23, AAAI'23, NeurIPS'22 etc
+- 2023/1/6: I created the repository.
 
 ## Contributing
 
