@@ -39,6 +39,4 @@
  - [[37]. Optimizing Crop Management with <font color='black'>*Reinforcement Learning*</font> and Imitation Learning.](https://doi.org/10.24963/ijcai.2023/691)
  - [[38]. Keeping People Active and Healthy at Home Using a <font color='black'>*Reinforcement Learning*</font>-based Fitness Recommendation Framework.](https://doi.org/10.24963/ijcai.2023/692)
  - [[39]. State-wise Safe <font color='black'>*Reinforcement Learning*</font>: A Survey.](https://doi.org/10.24963/ijcai.2023/763)
- - [[40]. Mean-Semivariance Policy Optimization via Risk-Averse <font color='black'>*Reinforcement Learning*</font> (Extended Abstract).](https://doi.org/10.24963/ijcai.2023/784)
- - [[41]. <font color='black'>*Reinforcement Learning*</font> from Optimization Proxy for Ride-Hailing Vehicle Relocation (Extended Abstract).](https://doi.org/10.24963/ijcai.2023/796)
- - [[42]. SupervisorBot: NLP-Annotated Real-Time Recommendations of Psychotherapy Treatment Strategies with Deep <font color='black'>*Reinforcement Learning*</font>.](https://doi.org/10.24963/ijcai.2023/837)
+ - [[40]. SupervisorBot: NLP-Annotated Real-Time Recommendations of Psychotherapy Treatment Strategies with Deep <font color='black'>*Reinforcement Learning*</font>.](https://doi.org/10.24963/ijcai.2023/837)
