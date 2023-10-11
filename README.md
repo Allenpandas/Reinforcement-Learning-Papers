@@ -1,7 +1,36 @@
 # Awesome-Reinforcement-Learning-Papers
-🔨List of Top-tier Conference Papers on Reinforcement Learning (RL)，including: NeurIPS, AAAI, IJCAI, ICML, AAMAS, ICLR, ICRA, etc. | 强化学习方向顶会文章（持续更新）
+Welcome to our GitHub repository! This repository is dedicated to curating significant research papers in the field of **Reinforcement Learning (RL)** that have been accepted at top academic conferences such as **AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** and more. We provide you with a convenient resource hub to help you stay updated on the latest developments in reinforcement learning, delve into research trends, and explore cutting-edge algorithms and methods.
 
-**2023年：**
+欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
+
+
+
+## News
+
+- 2023/10/10: I initialize the repository and add papers.
+
+## Contributing
+
+<p align="center">
+  <img src="./we-need-you.jpeg" alt="We Need You!">
+</p>
+Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers/pulls)
+
+
+
+## Table of Contents
+
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+
+
+
+## 2023
 
 - **[37th AAAI 2023]** Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023. [[Accepted Papers](./2023/2023-AAAI)]
 - **[22st AAMAS 2023]** Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023. [[Accepted Papers]](./2023/2023-AAMAS)
@@ -10,7 +39,9 @@
 - **[ICRA 2023]** 2023 International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023. [[Accepted Papers]](./2023/2023-ICRA)
 - **[32st IJCAI 2023]** Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023, 19th-25th August 2023, Macao, SAR, China. [[Accepted Papers]](./2023/2023-IJCAI)
 
-**2022年：**
+
+
+## 2022
 
 - **[36th AAAI 2022]** Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022, Virtual Event, February 22 - March 1, 2022. [[Accepted Papers](./2022/2022-AAAI)]
 - **[21st AAMAS 2022]** 21st International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2022, Auckland, New Zealand, May 9-13, 2022. [[Accepted Papers]](./2022/2022-AAMAS)
@@ -20,7 +51,7 @@
 - **[31st IJCAI 2022]** Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022. [[Accepted Papers]](./2022/2022-IJCAI)
 - **[36th NIPS 2022]** Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 - December 9, 2022. [[Accepted Papers]](./2022/2022-NIPS)
 
-**2021年：**
+## 2021
 
 - **[35th AAAI 2021]** Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Virtual Event, February 2-9, 2021. [[Accepted Papers](./2021/2021-AAAI)]
 - **[20th AAMAS 2021]** 20th International Conference on Autonomous Agents and Multiagent Systems, Virtual Event, United Kingdom, May 3-7, 2021. [[Accepted Papers](./2021/2021-AAMAS)]
@@ -30,7 +61,7 @@
 - **[30th IJCAI 2021]** Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI 2021, Virtual Event / Montreal, Canada, 19-27 August 2021. [[Accepted Papers]](./2021/2021-IJCAI)
 - **[35th NIPS 2021]** Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual. [[Accepted Papers]](./2021/2021-NIPS)
 
-**2020年：**
+## 2020
 
 - **[34th AAAI 2020]** The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, New York, NY, USA, February 7-12, 2020. [[Accepted Papers](./2020/2020-AAAI)]
 - **[19th AAMAS 2020]** Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems, AAMAS '20, Auckland, New Zealand, May 9-13, 2020. [[Accepted Papers](./2020/2020-AAMAS)]
@@ -40,7 +71,7 @@
 - **[29th IJCAI 2020]** Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020. [[Accepted Papers]](./2020/2020-IJCAI)
 - **[34th NIPS 2020]** Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual. [[Accepted Papers]](./2020/2020-NIPS)
 
-**2019年：**
+## 2019
 
 - **[33rd AAAI 2019]** The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019, Honolulu, Hawaii, USA, January 27 - February 1, 2019. [[Accepted Papers](./2019/2019-AAAI)]
 - **[18th AAMAS 2019]** Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems, AAMAS '19, Montreal, QC, Canada, May 13-17, 2019. [[Accepted Papers](./2019/2019-AAMAS)]
@@ -50,7 +81,7 @@
 - **[28th IJCAI 2019]** Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019. [[Accepted Papers]](./2019/2019-IJCAI)
 - **[33rd NIPS 2019]** Annual Conference on Neural Information Processing Systems 2019, NeurIPS 2019, December 8-14, 2019, Vancouver, BC, Canada. [[Accepted Papers]](./2019/2019-NIPS)
 
-**2018年：**
+## 2018
 
 - **[32nd AAAI 2018]** Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence, (AAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018. [[Accepted Papers](./2018/2018-AAAI)]
 - **[17th AAMAS 2018]** Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems, AAMAS 2018, Stockholm, Sweden, July 10-15, 2018. [[Accepted Papers](./2018/2018-AAMAS)]
@@ -60,7 +91,7 @@
 - **[27th IJCAI 2018]** Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018, July 13-19, 2018, Stockholm, Sweden. [[Accepted Papers]](./2018/2018-IJCAI)
 - **[32nd NIPS 2018]** Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montréal, Canada. [[Accepted Papers]](./2018/2018-NIPS)
 
-**2017年：**
+## 2017
 
 - **[31st AAAI 2017]** Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence, February 4-9, 2017, San Francisco, California, USA. [[Accepted Papers](./2017/2017-AAAI)]
 - **[16th AAMAS 2017]** Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, AAMAS 2017, São Paulo, Brazil, May 8-12, 2017. [[Accepted Papers](./2017/2017-AAMAS)]
