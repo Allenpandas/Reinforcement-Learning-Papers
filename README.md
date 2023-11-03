@@ -15,7 +15,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 <p align="center">
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
-Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Conferences-Papers/pulls)
+Please help to contribute this list by contacting me or add [pull request](./pulls)
 
 
 
