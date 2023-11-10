@@ -1,9 +1,11 @@
 # Awesome-Reinforcement-Learning-Papers
+<p align="center">
+  <img src="./overview.jpeg" alt="Reinforcement Learning!" style="height:400px">
+</p>
+
 Welcome to our GitHub repository! This repository is dedicated to curating significant research papers in the field of **Reinforcement Learning (RL)** that have been accepted at top academic conferences such as **AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** and more. We provide you with a convenient resource hub to help you stay updated on the latest developments in reinforcement learning, delve into research trends, and explore cutting-edge algorithms and methods.
 
 欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
-
-
 
 ## News
 
@@ -15,7 +17,7 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 <p align="center">
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
-Please help to contribute this list by contacting me or add pull request.
+Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers/pulls).
 
 
 
