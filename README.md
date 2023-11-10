@@ -52,14 +52,6 @@ Please help to contribute this list by contacting me or add pull request.
 
 > Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
 
-### 2023-AAMAS
-
-> Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
-
-### 2023-IJCAI
-
-> Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
-
 **Accepted Papers：**
 
  - **Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps.** [[pdf](https://doi.org/10.1609/aaai.v37i2.25325)]
@@ -244,6 +236,102 @@ Please help to contribute this list by contacting me or add pull request.
    - Wenli Xiao, Yiwei Lyu, John M. Dolan.
  - **SOREO: A System for Safe and Autonomous Drones Fleet Navigation with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i13.27058)]
    - Réda Alami, Hakim Hacid, Lorenzo Bellone, Michal Barcis, Enrico Natalizio.
+
+### 2023-AAMAS
+
+> Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
+
+### 2023-IJCAI
+
+> Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
+
+ - **Explainable Multi-Agent Reinforcement Learning for Temporal Queries.** [[pdf](https://doi.org/10.24963/ijcai.2023/7)]
+   - Kayla Boggess, Sarit Kraus, Lu Feng.
+ - **Controlling Neural Style Transfer with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/12)]
+   - Chengming Feng, Jing Hu, Xin Wang, Shu Hu, Bin Zhu, Xi Wu, Hongtu Zhu, Siwei Lyu.
+ - **Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism.** [[pdf](https://doi.org/10.24963/ijcai.2023/15)]
+   - Xudong Guo, Daming Shi, Wenhui Fan.
+ - **Learning to Send Reinforcements: Coordinating Multi-Agent Dynamic Police Patrol Dispatching and Rescheduling via Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/18)]
+   - Waldy Joe, Hoong Chuin Lau.
+ - **Decentralized Anomaly Detection in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/19)]
+   - Kiarash Kazari, Ezzeldin Shereen, György Dán.
+ - **GPLight: Grouped Multi-agent Reinforcement Learning for Large-scale Traffic Signal Control.** [[pdf](https://doi.org/10.24963/ijcai.2023/23)]
+   - Yilin Liu, Guiyang Luo, Quan Yuan, Jinglin Li, Lei Jin, Bo Chen, Rui Pan.
+ - **Deep Hierarchical Communication Graph in Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/24)]
+   - Zeyang Liu, Lipeng Wan, Xue Sui, Zhuoran Chen, Kewu Sun, Xuguang Lan.
+ - **Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/36)]
+   - Elizaveta Tennant, Stephen Hailes, Mirco Musolesi.
+ - **Inducing Stackelberg Equilibrium through Spatio-Temporal Sequential Decision-Making in Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/40)]
+   - Bin Zhang, Lijuan Li, Zhiwei Xu, Dapeng Li, Guoliang Fan.
+ - **Robust Reinforcement Learning via Progressive Task Sequence.** [[pdf](https://doi.org/10.24963/ijcai.2023/51)]
+   - Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Jiqiang Liu.
+ - **Adversarial Behavior Exclusion for Safe Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/54)]
+   - Md Asifur Rahman, Tongtong Liu, Sarra Alqahtani.
+ - **Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/68)]
+   - Yinda Chen, Wei Huang, Shenglong Zhou, Qi Chen, Zhiwei Xiong.
+ - **Enhancing Network by Reinforcement Learning and Neural Confined Local Search.** [[pdf](https://doi.org/10.24963/ijcai.2023/236)]
+   - Qifu Hu, Ruyang Li, Qi Deng, Yaqian Zhao, Rengang Li.
+ - **Reinforcement Learning Approaches for Traffic Signal Control under Missing Data.** [[pdf](https://doi.org/10.24963/ijcai.2023/251)]
+   - Hao Mei, Junxian Li, Bin Shi, Hua Wei.
+ - **Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/273)]
+   - Sen Zhao, Wei Wei, Yifan Liu, Ziyang Wang, Wendi Li, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen.
+ - **A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/340)]
+   - Lang Qin, Rui Yan, Huajin Tang.
+ - **CROP: Towards Distributional-Shift Robust Reinforcement Learning Using Compact Reshaped Observation Processing.** [[pdf](https://doi.org/10.24963/ijcai.2023/380)]
+   - Philipp Altmann, Fabian Ritz, Leonard Feuchtinger, Jonas Nüßlein, Claudia Linnhoff-Popien, Thomy Phan.
+ - **Ensemble Reinforcement Learning in Continuous Spaces - A Hierarchical Multi-Step Approach for Policy Training.** [[pdf](https://doi.org/10.24963/ijcai.2023/391)]
+   - Gang Chen, Victoria Huang.
+ - **Automatic Truss Design with Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/407)]
+   - Weihua Du, Jinglun Zhao, Chao Yu, Xingcheng Yao, Zimeng Song, Siyang Wu, Ruifeng Luo, Zhiyuan Liu, Xianzhong Zhao, Yi Wu.
+ - **SeRO: Self-Supervised Reinforcement Learning for Recovery from Out-of-Distribution Situations.** [[pdf](https://doi.org/10.24963/ijcai.2023/432)]
+   - Chan Kim, JaeKyung Cho, Christophe Bobda, Seung-Woo Seo, Seong-Woo Kim.
+ - **Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees.** [[pdf](https://doi.org/10.24963/ijcai.2023/465)]
+   - Daqian Shao, Marta Kwiatkowska.
+ - **Guide to Control: Offline Hierarchical Reinforcement Learning Using Subgoal Generation for Long-Horizon and Sparse-Reward Tasks.** [[pdf](https://doi.org/10.24963/ijcai.2023/469)]
+   - Wonchul Shin, Yusung Kim.
+ - **MA2CL: Masked Attentive Contrastive Learning for Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/470)]
+   - Haolin Song, Mingxiao Feng, Wengang Zhou, Houqiang Li.
+ - **Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based Federated Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/474)]
+   - Xiaoli Tang, Han Yu.
+ - **On the Reuse Bias in Off-Policy Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/502)]
+   - Chengyang Ying, Zhongkai Hao, Xinning Zhou, Hang Su, Dong Yan, Jun Zhu.
+ - **Explainable Reinforcement Learning via a Causal World Model.** [[pdf](https://doi.org/10.24963/ijcai.2023/505)]
+   - Zhongwei Yu, Jingqing Ruan, Dengpeng Xing.
+ - **Adaptive Reward Shifting Based on Behavior Proximity for Offline Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/514)]
+   - Zhe Zhang, Xiaoyang Tan.
+ - **DPMAC: Differentially Private Communication for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/516)]
+   - Canzhe Zhao, Yanjie Ze, Jing Dong, Baoxiang Wang, Shuai Li.
+ - **Causal Deep Reinforcement Learning Using Observational Data.** [[pdf](https://doi.org/10.24963/ijcai.2023/524)]
+   - Wenxuan Zhu, Chao Yu, Qiang Zhang.
+ - **InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/550)]
+   - Yutong Ye, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, Xiang Lian.
+ - **Towards Generalizable Reinforcement Learning for Trade Execution.** [[pdf](https://doi.org/10.24963/ijcai.2023/553)]
+   - Chuheng Zhang, Yitong Duan, Xiaoyu Chen, Jianyu Chen, Jian Li, Li Zhao.
+ - **Complex Contagion Influence Maximization: A Reinforcement Learning Approach.** [[pdf](https://doi.org/10.24963/ijcai.2023/614)]
+   - Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe.
+ - **Safe Reinforcement Learning via Probabilistic Logic Shields.** [[pdf](https://doi.org/10.24963/ijcai.2023/637)]
+   - Wen-Chi Yang, Giuseppe Marra, Gavin Rens, Luc De Raedt.
+ - **Building a Personalized Messaging System for Health Intervention in Underprivileged Regions Using Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/668)]
+   - Sarah Eve Kinsey, Jack Wolf, Nalini Saligram, Varun Ramesan, Meeta Walavalkar, Nidhi Jaswal, Sandhya Ramalingam, Arunesh Sinha, Thanh Hong Nguyen.
+ - **Planning Multiple Epidemic Interventions with Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/682)]
+   - Anh L. Mai, Nikunj Gupta, Azza Abouzied, Dennis E. Shasha.
+ - **Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves.** [[pdf](https://doi.org/10.24963/ijcai.2023/688)]
+   - Soumyendu Sarkar, Vineet Gundecha, Sahand Ghorbanpour, Alexander Shmakov, Ashwin Ramesh Babu, Avisek Naug, Alexandre Pichard, Mathieu Cocho.
+ - **Optimizing Crop Management with Reinforcement Learning and Imitation Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/691)]
+   - Ran Tao, Pan Zhao, Jing Wu, Nicolas F. Martin, Matthew T. Harrison, Carla Sofia Santos Ferreira, Zahra Kalantari, Naira Hovakimyan.
+ - **Keeping People Active and Healthy at Home Using a Reinforcement Learning-based Fitness Recommendation Framework.** [[pdf](https://doi.org/10.24963/ijcai.2023/692)]
+   - Elias Z. Tragos, Diarmuid O'Reilly-Morgan, James Geraci, Bichen Shi, Barry Smyth, Cailbhe Doherty, Aonghus Lawlor, Neil Hurley.
+ - **State-wise Safe Reinforcement Learning: A Survey.** [[pdf](https://doi.org/10.24963/ijcai.2023/763)]
+   - Weiye Zhao, Tairan He, Rui Chen, Tianhao Wei, Changliu Liu.
+ - **Mean-Semivariance Policy Optimization via Risk-Averse Reinforcement Learning (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2023/784)]
+   - Xiaoteng Ma, Shuai Ma, Li Xia, Qianchuan Zhao.
+ - **Reinforcement Learning from Optimization Proxy for Ride-Hailing Vehicle Relocation (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2023/796)]
+   - Enpeng Yuan, Wenbo Chen, Pascal Van Hentenryck.
+ - **SupervisorBot: NLP-Annotated Real-Time Recommendations of Psychotherapy Treatment Strategies with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/837)]
+   - Baihan Lin, Guillermo A. Cecchi, Djallel Bouneffouf.
+
+
+
 
 ### 2023-ICLR
 
