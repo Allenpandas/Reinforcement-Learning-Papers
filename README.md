@@ -237,6 +237,8 @@ Please help to contribute this list by contacting me or add pull request.
  - **SOREO: A System for Safe and Autonomous Drones Fleet Navigation with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i13.27058)]
    - Réda Alami, Hakim Hacid, Lorenzo Bellone, Michal Barcis, Enrico Natalizio.
 
+---
+
 ### 2023-AAMAS
 
 > Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
@@ -426,6 +428,7 @@ Please help to contribute this list by contacting me or add pull request.
  - **Improvement and Evaluation of the Policy Legibility in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599167)]
    - Yanyu Liu, Yifeng Zeng, Biyang Ma, Yinghui Pan, Huifan Gao, Xiaohan Huang.
 
+---
 
 ### 2023-IJCAI
 
@@ -520,10 +523,168 @@ Please help to contribute this list by contacting me or add pull request.
 
 
 
+---
 
 ### 2023-ICLR
 
 >  The Eleventh International Conference on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023.
+
+**Accepted Papers：**
+
+ - **The Role of Coverage in Online Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=LQIjzPdDt3q)]
+   - Tengyang Xie, Dylan J. Foster, Yu Bai, Nan Jiang, Sham M. Kakade.
+ - **Confidence-Conditioned Value Functions for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=Zeb5mTuqT5)]
+   - Joey Hong, Aviral Kumar, Sergey Levine.
+ - **In-context Reinforcement Learning with Algorithm Distillation.** [[pdf](https://openreview.net/pdf?id=hy0a5MMPUv)]
+   - Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Stenberg Hansen, Angelos Filos, Ethan A. Brooks, Maxime Gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih.
+ - **Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.** [[pdf](https://openreview.net/pdf?id=F61FwJTZhb)]
+   - Anton Bakhtin, David J. Wu, Adam Lerer, Jonathan Gray, Athul Paul Jacob, Gabriele Farina, Alexander H. Miller, Noam Brown.
+ - **Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier.** [[pdf](https://openreview.net/pdf?id=OpC-9aBBVJe)]
+   - Pierluca D'Oro, Max Schwarzer, Evgenii Nikishin, Pierre-Luc Bacon, Marc G. Bellemare, Aaron C. Courville.
+ - **Near-optimal Policy Identification in Active Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=3OR2tbtnYC-)]
+   - Xiang Li, Viraj Mehta, Johannes Kirschner, Ian Char, Willie Neiswanger, Jeff Schneider, Andreas Krause, Ilija Bogunovic.
+ - **Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery.** [[pdf](https://openreview.net/pdf?id=6BHlZgyPOZY)]
+   - Félix Chalumeau, Raphaël Boige, Bryan Lim, Valentin Macé, Maxime Allard, Arthur Flajolet, Antoine Cully, Thomas Pierrot.
+ - **The In-Sample Softmax for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=u-RuvyDYqCM)]
+   - Chenjun Xiao, Han Wang, Yangchen Pan, Adam White, Martha White.
+ - **Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization.** [[pdf](https://openreview.net/pdf?id=8aHzds2uUyB)]
+   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi.
+ - **TEMPERA: Test-Time Prompt Editing via Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=gSHyqBijPFO)]
+   - Tianjun Zhang, Xuezhi Wang, Denny Zhou, Dale Schuurmans, Joseph E. Gonzalez.
+ - **Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes.** [[pdf](https://openreview.net/pdf?id=hWwY_Jq0xsN)]
+   - Eoin M. Kenny, Mycal Tucker, Julie Shah.
+ - **A CMDP-within-online framework for Meta-Safe Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=mbxz9Cjehr)]
+   - Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, Ming Jin.
+ - **Does Zero-Shot Reinforcement Learning Exist?** [[pdf](https://openreview.net/pdf?id=MYEap_OcQI)]
+   - Ahmed Touati, Jérémy Rapin, Yann Ollivier.
+ - **Hyperbolic Deep Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=TfBHFLgv77)]
+   - Edoardo Cetin, Benjamin Paul Chamberlain, Michael M. Bronstein, Jonathan J. Hunt.
+ - **Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=hQ9V5QN27eS)]
+   - Onno Eberhard, Jakob Hollenstein, Cristina Pinneri, Georg Martius.
+ - **RLx2: Training a Sparse Deep Reinforcement Learning Model from Scratch.** [[pdf](https://openreview.net/pdf?id=DJEEqoAq7to)]
+   - Yiqin Tan, Pihe Hu, Ling Pan, Jiatai Huang, Longbo Huang.
+ - **DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems.** [[pdf](https://openreview.net/pdf?id=C-xa_D3oTj6)]
+   - Pierre Schumacher, Daniel F. B. Haeufle, Dieter Büchler, Syn Schmitt, Georg Martius.
+ - **A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=dqITIpZ5Z4b)]
+   - Zixiang Chen, Chris Junchi Li, Huizhuo Yuan, Quanquan Gu, Michael I. Jordan.
+ - **Benchmarking Offline Reinforcement Learning on Real-Robot Hardware.** [[pdf](https://openreview.net/pdf?id=3k5CUGDLNdd)]
+   - Nico Gürtler, Sebastian Blaes, Pavel Kolev, Felix Widmaier, Manuel Wuthrich, Stefan Bauer, Bernhard Schölkopf, Georg Martius.
+ - **Outcome-directed Reinforcement Learning by Uncertainty \& Temporal Distance-Aware Curriculum Goal Generation.** [[pdf](https://openreview.net/pdf?id=v69itrHLEu)]
+   - Daesol Cho, Seungjae Lee, H. Jin Kim.
+ - **Near-Optimal Adversarial Reinforcement Learning with Switching Costs.** [[pdf](https://openreview.net/pdf?id=i9ogGQHYbkY)]
+   - Ming Shi, Yingbin Liang, Ness B. Shroff.
+ - **LS-IQ: Implicit Reward Regularization for Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=o3Q4m8jg4BR)]
+   - Firas Al-Hafez, Davide Tateo, Oleg Arenz, Guoping Zhao, Jan Peters.
+ - **Gray-Box Gaussian Processes for Automated Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=rmoMvptXK7M)]
+   - Gresa Shala, André Biedenkapp, Frank Hutter, Josif Grabocka.
+ - **Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation.** [[pdf](https://openreview.net/pdf?id=b39dQt_uffW)]
+   - Yannick Hogewind, Thiago D. Simão, Tal Kachman, Nils Jansen.
+ - **Efficient Deep Reinforcement Learning Requires Regulating Overfitting.** [[pdf](https://openreview.net/pdf?id=14-kr46GvP-)]
+   - Qiyang Li, Aviral Kumar, Ilya Kostrikov, Sergey Levine.
+ - **Offline Reinforcement Learning with Differentiable Function Approximation is Provably Efficient.** [[pdf](https://openreview.net/pdf?id=6jfbOWzWTcE)]
+   - Ming Yin, Mengdi Wang, Yu-Xiang Wang.
+ - **Stateful Active Facilitator: Coordination and Environmental Heterogeneity in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=B4maZQLLW0_)]
+   - Dianbo Liu, Vedant Shah, Oussama Boussif, Cristian Meo, Anirudh Goyal, Tianmin Shu, Michael Curtis Mozer, Nicolas Heess, Yoshua Bengio.
+ - **Investigating Multi-task Pretraining and Generalization in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=sSt9fROSZRO)]
+   - Adrien Ali Taïga, Rishabh Agarwal, Jesse Farebrother, Aaron C. Courville, Marc G. Bellemare.
+ - **MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection.** [[pdf](https://openreview.net/pdf?id=CDlHZ78-Xzi)]
+   - Jiaxun Cui, Xiaomeng Yang, Mulong Luo, Geunbae Lee, Peter Stone, Hsien-Hsin S. Lee, Benjamin Lee, G. Edward Suh, Wenjie Xiong, Yuandong Tian.
+ - **PAC Reinforcement Learning for Predictive State Representations.** [[pdf](https://openreview.net/pdf?id=FVW7Mi2ph6C)]
+   - Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee.
+ - **Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=sPgP6aISLTD)]
+   - Mhairi Dunion, Trevor McInroe, Kevin Sebastian Luck, Josiah P. Hanna, Stefano V. Albrecht.
+ - **Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=AHvFDPi-FA)]
+   - Zhendong Wang, Jonathan J. Hunt, Mingyuan Zhou.
+ - **Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling.** [[pdf](https://openreview.net/pdf?id=42zs3qa2kpy)]
+   - Huayu Chen, Cheng Lu, Chengyang Ying, Hang Su, Jun Zhu.
+ - **Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=UYcIheNY9Pf)]
+   - Deyao Zhu, Li Erran Li, Mohamed Elhoseiny.
+ - **User-Interactive Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=a4COps0uokg)]
+   - Phillip Swazinna, Steffen Udluft, Thomas A. Runkler.
+ - **MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=sKWlRDzPfd7)]
+   - Mikayel Samvelyan, Akbir Khan, Michael Dennis, Minqi Jiang, Jack Parker-Holder, Jakob Nicolaus Foerster, Roberta Raileanu, Tim Rocktäschel.
+ - **Quality-Similar Diversity via Population Based Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=bLmSMXbqXr)]
+   - Shuang Wu, Jian Yao, Haobo Fu, Ye Tian, Chao Qian, Yaodong Yang, Qiang Fu, Wei Yang.
+ - **When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=lMO7TC7cuuh)]
+   - Jianxiong Li, Xianyuan Zhan, Haoran Xu, Xiangyu Zhu, Jingjing Liu, Ya-Qin Zhang.
+ - **Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation.** [[pdf](https://openreview.net/pdf?id=SNwH0dDGl7_)]
+   - Dan Qiao, Yu-Xiang Wang.
+ - **MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations.** [[pdf](https://openreview.net/pdf?id=JdTnc9gjVfJ)]
+   - Nicklas Hansen, Yixin Lin, Hao Su, Xiaolong Wang, Vikash Kumar, Aravind Rajeswaran.
+ - **PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm.** [[pdf](https://openreview.net/pdf?id=zS9sRyaPFlJ)]
+   - Toygun Basaklar, Suat Gumussoy, Ümit Y. Ogras.
+ - **Latent Variable Representation for Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=mQpmZVzXK1h)]
+   - Tongzheng Ren, Chenjun Xiao, Tianjun Zhang, Na Li, Zhaoran Wang, Sujay Sanghavi, Dale Schuurmans, Bo Dai.
+ - **Spectral Decomposition Representation for Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=FBMLeaXpZN)]
+   - Tongzheng Ren, Tianjun Zhang, Lisa Lee, Joseph E. Gonzalez, Dale Schuurmans, Bo Dai.
+ - **Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs.** [[pdf](https://openreview.net/pdf?id=jpsw-KuOi7r)]
+   - Yuan Cheng, Ruiquan Huang, Yingbin Liang, Jing Yang.
+ - **Provably Efficient Lifelong Reinforcement Learning with Linear Representation.** [[pdf](https://openreview.net/pdf?id=Qd0p0bl-A9t)]
+   - Sanae Amani, Lin Yang, Ching-An Cheng.
+ - **Causal Imitation Learning via Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=B-z41MBL_tH)]
+   - Kangrui Ruan, Junzhe Zhang, Xuan Di, Elias Bareinboim.
+ - **A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games.** [[pdf](https://openreview.net/pdf?id=DpE5UYUQzZH)]
+   - Samuel Sokota, Ryan D'Orazio, J. Zico Kolter, Nicolas Loizou, Marc Lanctot, Ioannis Mitliagkas, Noam Brown, Christian Kroer.
+ - **Scaling Laws for a Multi-Agent Reinforcement Learning Model.** [[pdf](https://openreview.net/pdf?id=ZrEbzL9eQ3W)]
+   - Oren Neumann, Claudius Gros.
+ - **Towards Minimax Optimal Reward-free Reinforcement Learning in Linear MDPs.** [[pdf](https://openreview.net/pdf?id=U9HW6vyNClg)]
+   - Pihe Hu, Yu Chen, Longbo Huang.
+ - **On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=-nm-rHXi5ga)]
+   - Sicong Liu, Xi Sheryl Zhang, Yushuo Li, Yifan Zhang, Jian Cheng.
+ - **Quasi-optimal Reinforcement Learning with Continuous Actions.** [[pdf](https://openreview.net/pdf?id=O8Vc52xFSUR)]
+   - Yuhan Li, Wenzhuo Zhou, Ruoqing Zhu.
+ - **Policy Expansion for Bridging Offline-to-Online Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=-Y34L45JR6z)]
+   - Haichao Zhang, Wei Xu, Haonan Yu.
+ - **Diminishing Return of Value Expansion Methods in Model-Based Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=H4Ncs5jhTCu)]
+   - Daniel Palenicek, Michael Lutter, Joao Carvalho, Jan Peters.
+ - **On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=KB1sc5pNKFv)]
+   - Yifan Xu, Nicklas Hansen, Zirui Wang, Yung-Chieh Chan, Hao Su, Zhuowen Tu.
+ - **Benchmarking Constraint Inference in Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=vINj_Hv9szL)]
+   - Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, Pascal Poupart.
+ - **Distributional Meta-Gradient Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=LGkmUauBUL)]
+   - Haiyan Yin, Shuicheng Yan, Zhongwen Xu.
+ - **In-sample Actor Critic for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=dfDv0WU853R)]
+   - Hongchang Zhang, Yixiu Mao, Boyuan Wang, Shuncheng He, Yi Xu, Xiangyang Ji.
+ - **EUCLID: Towards Efficient Unsupervised Reinforcement Learning with Multi-choice Dynamics Model.** [[pdf](https://openreview.net/pdf?id=xQAjSr64PTc)]
+   - Yifu Yuan, Jianye Hao, Fei Ni, Yao Mu, Yan Zheng, Yujing Hu, Jinyi Liu, Yingfeng Chen, Changjie Fan.
+ - **Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks.** [[pdf](https://openreview.net/pdf?id=OxNQXyZK-K8)]
+   - Jianye Hao, Xiaotian Hao, Hangyu Mao, Weixun Wang, Yaodong Yang, Dong Li, Yan Zheng, Zhen Wang.
+ - **Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting.** [[pdf](https://openreview.net/pdf?id=OhUAblg27z)]
+   - Zhang-Wei Hong, Pulkit Agrawal, Remi Tachet des Combes, Romain Laroche.
+ - **RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=HnSceSzlfrY)]
+   - Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu.
+ - **Behavior Prior Representation learning for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=hQ4K9Bf4G2B)]
+   - Hongyu Zang, Xin Li, Jie Yu, Chen Liu, Riashat Islam, Remi Tachet des Combes, Romain Laroche.
+ - **Multi-Objective Reinforcement Learning: Convexity, Stationarity and Pareto Optimality.** [[pdf](https://openreview.net/pdf?id=TjEzIsyEsQ6)]
+   - Haoye Lu, Daniel Herman, Yaoliang Yu.
+ - **The Provable Benefit of Unsupervised Data Sharing for Offline Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=MTTPLcwvqTt)]
+   - Hao Hu, Yiqin Yang, Qianchuan Zhao, Chongjie Zhang.
+ - **Risk-Aware Reinforcement Learning with Coherent Risk Measures and Non-linear Function Approximation.** [[pdf](https://openreview.net/pdf?id=-RwZOVybbj)]
+   - Thanh Lam, Arun Verma, Bryan Kian Hsiang Low, Patrick Jaillet.
+ - **Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=cddbeL1HWaD)]
+   - Yat Long Lo, Christian Schröder de Witt, Samuel Sokota, Jakob Nicolaus Foerster, Shimon Whiteson.
+ - **On the Robustness of Safe Reinforcement Learning under Observational Perturbations.** [[pdf](https://openreview.net/pdf?id=jbIYfq4Tr-)]
+   - Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, Ding Zhao.
+ - **Pessimism in the Face of Confounders: Provably Efficient Offline Reinforcement Learning in Partially Observable Markov Decision Processes.** [[pdf](https://openreview.net/pdf?id=PbkBDQ5_UbV)]
+   - Miao Lu, Yifei Min, Zhaoran Wang, Zhuoran Yang.
+ - **CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=5aT4ganOd98)]
+   - Sheng Yue, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, Junshan Zhang.
+ - **Deep Reinforcement Learning for Cost-Effective Medical Diagnosis.** [[pdf](https://openreview.net/pdf?id=0WVNuEnqVu)]
+   - Zheng Yu, Yikuan Li, Joseph Kim, Kaixuan Huang, Yuan Luo, Mengdi Wang.
+ - **POPGym: Benchmarking Partially Observable Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=chDrutUTs0K)]
+   - Steven D. Morad, Ryan Kortvelesy, Matteo Bettini, Stephan Liwicki, Amanda Prorok.
+ - **Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=0v4VkCSkHNm)]
+   - Sasha Salter, Kristian Hartikainen, Walter Goodwin, Ingmar Posner.
+ - **ERL-Re$^2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation.** [[pdf](https://openreview.net/pdf?id=FYZCHEtt6H0)]
+   - Jianye Hao, Pengyi Li, Hongyao Tang, Yan Zheng, Xian Fu, Zhaopeng Meng.
+ - **Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path.** [[pdf](https://openreview.net/pdf?id=Yn0xg-kHNW-)]
+   - Yihan Du, Siwei Wang, Longbo Huang.
+ - **Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game.** [[pdf](https://openreview.net/pdf?id=UP_GHHPw7rP)]
+   - Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang.
+ - **Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching.** [[pdf](https://openreview.net/pdf?id=QjQibO3scV_)]
+   - Chang Liu, Zetian Jiang, Runzhong Wang, Lingxiao Huang, Pinyan Lu, Junchi Yan.
+
+---
 
 ### 2023-ICML
 
