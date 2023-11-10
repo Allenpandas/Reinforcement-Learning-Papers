@@ -922,6 +922,126 @@ Please help to contribute this list by contacting me or add pull request.
 
 **Accepted Papers：**
 
+ - **Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160687)]
+   - Omey M. Manyar, Zachary McNulty, Stefanos Nikolaidis, Satyandra K. Gupta.
+ - **Comparison of Model-Based and Model-Free Reinforcement Learning for Real-World Dexterous Robotic Manipulation Tasks.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160983)]
+   - David Valencia, John Jia, Raymond Li, Alex Hayashi, Megan Lecchi, Reuel Terezakis, Trevor Gee, Minas V. Liarokapis, Bruce A. MacDonald, Henry Williams.
+ - **Handling Sparse Rewards in Reinforcement Learning Using Model Predictive Control.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161492)]
+   - Murad Dawood, Nils Dengler, Jorge de Heuvel, Maren Bennewitz.
+ - **Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161268)]
+   - Samuel Triest, Mateo Guaman Castro, Parv Maheshwari, Matthew Sivaprakasam, Wenshan Wang, Sebastian A. Scherer.
+ - **Variable Admittance Interaction Control of UAVs via Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160558)]
+   - Yuting Feng, Chuanbeibei Shi, Jianrui Du, Yushu Yu, Fuchun Sun, Yixu Song.
+ - **Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160675)]
+   - Jack Saunders, Sajad Saeedi, Wenbin Li.
+ - **RTAW: An Attention Inspired Reinforcement Learning Method for Multi-Robot Task Allocation in Warehouse Environments.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161310)]
+   - Aakriti Agrawal, Amrit Singh Bedi, Dinesh Manocha.
+ - **Reinforcement Learning-Based Optimal Multiple Waypoint Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160725)]
+   - Christos Vlachos, Panagiotis Rousseas, Charalampos P. Bechlioulis, Kostas J. Kyriakopoulos.
+ - **DriveIRL: Drive in Real Life with Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160449)]
+   - Tung Phan-Minh, Forbes Howington, Ting-Sheng Chu, Momchil S. Tomov, Robert E. Beaudoin, Sang Uk Lee, Nanxiang Li, Caglayan Dicle, Samuel Findler, Francisco Suárez-Ruiz, Bo Yang, Sammy Omari, Eric M. Wolff.
+ - **Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160371)]
+   - Kyowoon Lee, Seongun Kim, Jaesik Choi.
+ - **Dextrous Tactile In-Hand Manipulation Using a Modular Reinforcement Learning Architecture.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160756)]
+   - Johannes Pitz, Lennart Röstel, Leon Sievers, Berthold Bäuml.
+ - **Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161081)]
+   - Yi Liu, Gaurav Datta, Ellen R. Novoseller, Daniel S. Brown.
+ - **Active Predictive Coding: Brain-Inspired Reinforcement Learning for Sparse Reward Robotic Control Problems.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160530)]
+   - Alexander Ororbia, Ankur Arjun Mali.
+ - **Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160858)]
+   - Wei Wang, Xiaojing Cao, Alejandro Gonzalez-Garcia, Lianhao Yin, Niklas Hagemann, Yuanyuan Qiao, Carlo Ratti, Daniela Rus.
+ - **Event-Triggered Optimal Formation Tracking Control Using Reinforcement Learning for Large-Scale UAV Systems.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160532)]
+   - Ziwei Yan, Liang Han, Xiaoduo Li, Jinjie Li, Zhang Ren.
+ - **Multi-Target Pursuit by a Decentralized Heterogeneous UAV Swarm using Deep Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160919)]
+   - Maryam Kouzeghar, Youngbin Song, Malika Meghjani, Roland Bouffanais.
+ - **Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160376)]
+   - Bryan Habas, Jack W. Langelaan, Bo Cheng.
+ - **Multiagent Reinforcement Learning for Autonomous Routing and Pickup Problem with Adaptation to Variable Demand.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161067)]
+   - Daniel Garces, Sushmita Bhattacharya, Stephanie Gil, Dimitri P. Bertsekas.
+ - **Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160491)]
+   - Hao Zhang, Hongzhuo Liang, Lin Cong, Jianzhi Lyu, Long Zeng, Pingfa Feng, Jianwei Zhang.
+ - **Sim-and-Real Reinforcement Learning for Manipulation: A Consensus-based Approach.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161062)]
+   - Wenxing Liu, Hanlin Niu, Wei Pan, Guido Herrmann, Joaquín Carrasco.
+ - **Demonstration-Guided Reinforcement Learning with Efficient Exploration for Task Automation of Surgical Robot.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160327)]
+   - Tao Huang, Kai Chen, Bin Li, Yun-Hui Liu, Qi Dou.
+ - **GAN-Based Interactive Reinforcement Learning from Demonstration and Human Evaluative Feedback.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160939)]
+   - Jie Huang, Jiangshan Hao, Rongshun Juan, Randy Gomez, Keisuke Nakamura, Guangliang Li.
+ - **Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161447)]
+   - Abhishek Gupta, Corey Lynch, Brandon Kinman, Garrett Peake, Sergey Levine, Karol Hausman.
+ - **Minimizing Human Assistance: Augmenting a Single Demonstration for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161119)]
+   - Abraham George, Alison Bartsch, Amir Barati Farimani.
+ - **Show me What you want: Inverse Reinforcement Learning to Automatically Design Robot Swarms by Demonstration.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160947)]
+   - Ilyes Gharbi, Jonas Kuckling, David Garzón-Ramos, Mauro Birattari.
+ - **DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161144)]
+   - I Made Aswin Nahrendra, Byeongho Yu, Hyun Myung.
+ - **Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160751)]
+   - Eric Vollenweider, Marko Bjelonic, Victor Klemm, Nikita Rudin, Joonho Lee, Marco Hutter.
+ - **Deep Reinforcement Learning based Personalized Locomotion Planning for Lower-Limb Exoskeletons.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161559)]
+   - Javad Khodaei-Mehr, Eddie Guo, Mojtaba Akbari, Vivian K. Mushahwar, Mahdi Tavakoli.
+ - **Automatic Cell Rotation Method Based on Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161043)]
+   - Huiying Gong, Yujie Zhang, Yaowei Liu, Qili Zhao, Xin Zhao, Mingzhu Sun.
+ - **Explainable Action Advising for Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160557)]
+   - Yue Guo, Joseph Campbell, Simon Stepputtis, Ruiyu Li, Dana Hughes, Fei Fang, Katia P. Sycara.
+ - **Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161216)]
+   - Zhili Zhang, Songyang Han, Jiangwei Wang, Fei Miao.
+ - **Reinforcement Learning with Probabilistically Safe Control Barrier Functions for Ramp Merging.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161418)]
+   - Soumith Udatha, Yiwei Lyu, John M. Dolan.
+ - **Self-Improving Safety Performance of Reinforcement Learning Based Driving with Black-Box Verification Algorithms.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160883)]
+   - Resul Dagdanov, Halil Durmus, Nazim Kemal Ure.
+ - **Uncertainty-Guided Active Reinforcement Learning with Bayesian Neural Networks.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160686)]
+   - Xinyang Wu, Mohamed El-Shamouty, Christof Nitsche, Marco F. Huber.
+ - **Efficient Planning of Multi-Robot Collective Transport using Graph Reinforcement Learning with Higher Order Topological Abstraction.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161517)]
+   - Steve Paul, Wenyuan Li, Brian Smyth, Yuzhou Chen, Yulia R. Gel, Souma Chowdhury.
+ - **Option-Aware Adversarial Inverse Reinforcement Learning for Robotic Control.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160374)]
+   - Jiayu Chen, Tian Lan, Vaneet Aggarwal.
+ - **Meta-Reinforcement Learning via Language Instructions.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160626)]
+   - Zhenshan Bing, Alexander W. Koch, Xiangtong Yao, Kai Huang, Alois Knoll.
+ - **Feature Extraction for Effective and Efficient Deep Reinforcement Learning on Real Robotic Platforms.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160862)]
+   - Peter Böhm, Pauline Pounds, Archie C. Chapman.
+ - **Online Safety Property Collection and Refinement for Safe Deep Reinforcement Learning in Mapless Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161312)]
+   - Luca Marzari, Enrico Marchesini, Alessandro Farinelli.
+ - **Deep Reinforcement Learning for Autonomous Driving using High-Level Heterogeneous Graph Representations.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160762)]
+   - Maximilian Schier, Christoph Reinders, Bodo Rosenhahn.
+ - **Multi-Alpha Soft Actor-Critic: Overcoming Stochastic Biases in Maximum Entropy Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161395)]
+   - Conor Igoe, Swapnil Pande, Siddarth Venkatraman, Jeff G. Schneider.
+ - **Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160764)]
+   - Zheng Wu, Yichen Xie, Wenzhao Lian, Changhao Wang, Yanjiang Guo, Jianyu Chen, Stefan Schaal, Masayoshi Tomizuka.
+ - **Real World Offline Reinforcement Learning with Realistic Data Source.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161474)]
+   - Gaoyue Zhou, Liyiming Ke, Siddhartha S. Srinivasa, Abhinav Gupta, Aravind Rajeswaran, Vikash Kumar.
+ - **Robotic Table Wiping via Reinforcement Learning and Whole-body Trajectory Optimization.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161283)]
+   - Thomas Lew, Sumeet Singh, Mario Prats, Jeffrey Bingham, Jonathan Weisz, Benjie Holson, Xiaohan Zhang, Vikas Sindhwani, Yao Lu, Fei Xia, Peng Xu, Tingnan Zhang, Jie Tan, Montserrat Gonzalez.
+ - **Adaptive Risk-Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160324)]
+   - Cheng Liu, Erik-Jan van Kampen, Guido C. H. E. de Croon.
+ - **Aligning Human Preferences with Baseline Objectives in Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161261)]
+   - Daniel Marta, Simon Holk, Christian Pek, Jana Tumova, Iolanda Leite.
+ - **Benchmarking Reinforcement Learning Techniques for Autonomous Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160583)]
+   - Zifan Xu, Bo Liu, Xuesu Xiao, Anirudh Nair, Peter Stone.
+ - **Conflict-constrained Multi-agent Reinforcement Learning Method for Parking Trajectory Planning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160698)]
+   - Siyuan Chen, Meiling Wang, Yi Yang, Wenjie Song.
+ - **Real-Time Reinforcement Learning for Vision-Based Robotics Utilizing Local and Remote Computers.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160684)]
+   - Yan Wang, Gautham Vasan, A. Rupam Mahmood.
+ - **Reinforcement Learning for Safe Robot Control using Control Lyapunov Barrier Functions.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160991)]
+   - Desong Du, Shaohang Han, Naiming Qi, Haitham Bou-Ammar, Jun Wang, Wei Pan.
+ - **Safe Reinforcement Learning of Dynamic High-Dimensional Robotic Tasks: Navigation, Manipulation, Interaction.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161548)]
+   - Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Zhiyuan Hu, Jan Peters, Georgia Chalvatzaki.
+ - **Sample-Efficient Goal-Conditioned Reinforcement Learning via Predictive Information Bottleneck for Goal Representation Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161213)]
+   - Qiming Zou, Einoshin Suzuki.
+ - **Reinforcement Learning Control of a Reconfigurable Planar Cable Driven Parallel Manipulator.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160498)]
+   - Adhiti Raman, Amey A. Salvi, Matthias J. Schmid, Venkat Krovi.
+ - **A Continuous Off-Policy Reinforcement Learning Scheme for Optimal Motion Planning in Simply-Connected Workspaces.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161189)]
+   - Panagiotis Rousseas, Charalampos P. Bechlioulis, Kostas J. Kyriakopoulos.
+ - **Visual Backtracking Teleoperation: A Data Collection Protocol for Offline Image-Based Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161096)]
+   - David Brandfonbrener, Stephen Tu, Avi Singh, Stefan Welker, Chad Boodoo, Nikolai Matni, Jake Varley.
+ - **Guiding Reinforcement Learning with Shared Control Templates.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161058)]
+   - Abhishek Padalkar, Gabriel Quere, Franz Steinmetz, Antonin Raffin, Matthias Nieuwenhuisen, João Silvério, Freek Stulp.
+ - **SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160536)]
+   - Yifan Xu, Theodor Chakhachiro, Tribhi Kathuria, Maani Ghaffari.
+ - **Reinforcement Learning for Laser Welding Speed Control Minimizing Bead Width Error.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161334)]
+   - Toshimitsu Kaneko, Gaku Minamoto, Yusuke Hirose, Tetsuo Sakai.
+ - **Security-Aware Reinforcement Learning under Linear Temporal Logic Specifications.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160753)]
+   - Bohan Cui, Keyi Zhu, Shaoyuan Li, Xiang Yin.
+ - **Monocular Reactive Collision Avoidance for MAV Teleoperation with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160427)]
+   - Raffaele Brilli, Marco Legittimo, Francesco Crocetti, Mirko Leomanni, Mario Luca Fravolini, Gabriele Costante.
 
 
 ## 2022
