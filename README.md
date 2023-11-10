@@ -241,9 +241,197 @@ Please help to contribute this list by contacting me or add pull request.
 
 > Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
 
+**Accepted Papers：**
+
+ - **Multi-Agent Reinforcement Learning for Adaptive Mesh Refinement.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598614)]
+   - Jiachen Yang, Ketan Mittal, Tarik Dzanic, Socratis Petrides, Brendan Keith, Brenden K. Petersen, Daniel M. Faissol, Robert W. Anderson.
+ - **Adaptive Learning Rates for Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598615)]
+   - Jiechuan Jiang, Zongqing Lu.
+ - **Adaptive Value Decomposition with Greedy Marginal Contribution Computation for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598616)]
+   - Shanqi Liu, Yujing Hu, Runze Wu, Dong Xing, Yu Xiong, Changjie Fan, Kun Kuang, Yong Liu.
+ - **A Variational Approach to Mutual Information-Based Coordination for Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598617)]
+   - Woojun Kim, Whiyoung Jung, Myungsik Cho, Youngchul Sung.
+ - **Mediated Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598618)]
+   - Dmitry Ivanov, Ilya Zisman, Kirill Chernyshev.
+ - **EXPODE: EXploiting POlicy Discrepancy for Efficient Exploration in Multi-agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598619)]
+   - Yucong Zhang, Chao Yu.
+ - **AC2C: Adaptively Controlled Two-Hop Communication for Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598667)]
+   - Xuefeng Wang, Xinran Li, Jiawei Shao, Jun Zhang.
+ - **Learning Structured Communication for Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598668)]
+   - Junjie Sheng, Xiangfeng Wang, Bo Jin, Wenhao Li, Jun Wang, Junchi Yan, Tsung-Hui Chang, Hongyuan Zha.
+ - **Model-based Sparse Communication in Multi-agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598669)]
+   - Shuai Han, Mehdi Dastani, Shihan Wang.
+ - **The Benefits of Power Regularization in Cooperative Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598671)]
+   - Michelle Li, Michael Dennis.
+ - **Sequential Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598674)]
+   - Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.
+ - **Multiagent Inverse Reinforcement Learning via Theory of Mind Reasoning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598703)]
+   - Haochen Wu, Pedro Sequeira, David V. Pynadath.
+ - **Follow your Nose: Using General Value Functions for Directed Exploration in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598715)]
+   - Durgesh Kalwar, Omkar Shelke, Somjit Nath, Hardik Meisheri, Harshad Khadilkar.
+ - **FedFormer: Contextual Federation with Attention in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598716)]
+   - Liam Hebert, Lukasz Golab, Pascal Poupart, Robin Cohen.
+ - **Enhancing Reinforcement Learning Agents with Local Guides.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598718)]
+   - Paul Daoudi, Bogdan Robu, Christophe Prieur, Ludovic Dos Santos, Merwan Barlier.
+ - **Out-of-Distribution Detection for Reinforcement Learning Agents with Probabilistic Dynamics Models.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598721)]
+   - Tom Haider, Karsten Roscher, Felippe Schmoeller da Roza, Stephan Günnemann.
+ - **Knowledge Compilation for Constrained Combinatorial Action Spaces in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598722)]
+   - Jiajing Ling, Moritz Lukas Schuler, Akshat Kumar, Pradeep Varakantham.
+ - **Learn to Solve the Min-max Multiple Traveling Salesmen Problem with Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598725)]
+   - Junyoung Park, Changhyun Kwon, Jinkyoo Park.
+ - **A Hybrid Framework of Reinforcement Learning and Physics-Informed Deep Learning for Spatiotemporal Mean Field Games.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598748)]
+   - Xu Chen, Shuo Liu, Xuan Di.
+ - **Adversarial Inverse Reinforcement Learning for Mean Field Games.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598749)]
+   - Yang Chen, Libo Zhang, Jiamou Liu, Michael Witbrock.
+ - **GANterfactual-RL: Understanding Reinforcement Learning Agents' Strategies through Visual Counterfactual Explanations.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598751)]
+   - Tobias Huber, Maximilian Demmler, Silvan Mertes, Matthew L. Olson, Elisabeth André.
+ - **Asynchronous Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-Robot Cooperative Exploration.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598752)]
+   - Chao Yu, Xinyi Yang, Jiaxuan Gao, Jiayu Chen, Yunfei Li, Jijia Liu, Yunfei Xiang, Ruixin Huang, Huazhong Yang, Yi Wu, Yu Wang.
+ - **Learning from Multiple Independent Advisors in Multi-agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598756)]
+   - Sriram Ganapathi Subramanian, Matthew E. Taylor, Kate Larson, Mark Crowley.
+ - **CraftEnv: A Flexible Collective Robotic Construction Environment for Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598759)]
+   - Rui Zhao, Xu Liu, Yizheng Zhang, Minghao Li, Cheng Zhou, Shuai Li, Lei Han.
+ - **Curriculum Offline Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598767)]
+   - Yuanying Cai, Chuheng Zhang, Hanye Zhao, Li Zhao, Jiang Bian.
+ - **Decentralized Model-Free Reinforcement Learning in Stochastic Games with Average-Reward Objective.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598768)]
+   - Romain Cravic, Nicolas Gast, Bruno Gaujal.
+ - **Less Is More: Refining Datasets for Offline Reinforcement Learning with Reward Machines.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598769)]
+   - Haoyuan Sun, Feng Wu.
+ - **D-Shape: Demonstration-Shaped Reinforcement Learning via Goal-Conditioning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598772)]
+   - Caroline Wang, Garrett Warnell, Peter Stone.
+ - **Safe Deep Reinforcement Learning by Verifying Task-Level Properties.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598799)]
+   - Enrico Marchesini, Luca Marzari, Alessandro Farinelli, Christopher Amato.
+ - **Heterogeneous Multi-Robot Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598801)]
+   - Matteo Bettini, Ajay Shankar, Amanda Prorok.
+ - **Multi-Agent Reinforcement Learning with Safety Layer for Active Voltage Control.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598807)]
+   - Yufeng Shi, Mingxiao Feng, Minrui Wang, Wengang Zhou, Houqiang Li.
+ - **Model-Based Reinforcement Learning for Auto-bidding in Display Advertising.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598810)]
+   - Shuang Chen, Qisen Xu, Liang Zhang, Yongbo Jin, Wenhao Li, Linjian Mo.
+ - **Model-based Dynamic Shielding for Safe and Efficient Multi-agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598814)]
+   - Wenli Xiao, Yiwei Lyu, John M. Dolan.
+ - **Toward Risk-based Optimistic Exploration for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598815)]
+   - Jihwan Oh, Joonkee Kim, Minchan Jeong, Se-Young Yun.
+ - **Counterexample-Guided Policy Refinement in Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598816)]
+   - Briti Gangopadhyay, Pallab Dasgupta, Soumyajit Dey.
+ - **Prioritized Tasks Mining for Multi-Task Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598817)]
+   - Yang Yu, Qiyue Yin, Junge Zhang, Kaiqi Huang.
+ - **TransfQMix: Transformers for Leveraging the Graph Structure of Multi-Agent Reinforcement Learning Problems.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598825)]
+   - Matteo Gallici, Mario Martin, Ivan Masmitja.
+ - **Implicit Poisoning Attacks in Two-Agent Reinforcement Learning: Adversarial Policies for Training-Time Attacks.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598848)]
+   - Mohammad Mohammadi, Jonathan Nöther, Debmalya Mandal, Adish Singla, Goran Radanovic.
+ - **Automatic Noise Filtering with Dynamic Sparse Training in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598862)]
+   - Bram Grooten, Ghada Sokar, Shibhansh Dohare, Elena Mocanu, Matthew E. Taylor, Mykola Pechenizkiy, Decebal Constantin Mocanu.
+ - **Parameter Sharing with Network Pruning for Scalable Multi-Agent Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598863)]
+   - Woojun Kim, Youngchul Sung.
+ - **Learning Rewards to Optimize Global Performance Metrics in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598864)]
+   - Junqi Qian, Paul Weng, Chenmien Tan.
+ - **A Deep Reinforcement Learning Approach for Online Parcel Assignment.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598865)]
+   - Hao Zeng, Qiong Wu, Kunpeng Han, Junying He, Haoyuan Hu.
+ - **A Brief Guide to Multi-Objective Reinforcement Learning and Planning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598869)]
+   - Conor F. Hayes, Roxana Radulescu, Eugenio Bargiacchi, Johan Källström, Matthew Macfarlane, Mathieu Reymond, Timothy Verstraeten, Luisa M. Zintgraf, Richard Dazeley, Fredrik Heintz, Enda Howley, Athirai A. Irissappane, Patrick Mannion, Ann Nowé, Gabriel de Oliveira Ramos, Marcello Restelli, Peter Vamplew, Diederik M. Roijers.
+ - **Welfare and Fairness in Multi-objective Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598870)]
+   - Zimeng Fan, Nianli Peng, Muhang Tian, Brandon Fain.
+ - **Hierarchical Reinforcement Learning with Human-AI Collaborative Sub-Goals Optimization.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598917)]
+   - Haozhe Ma, Thanh Vinh Vo, Tze-Yun Leong.
+ - **Towards Explaining Sequences of Actions in Multi-Agent Deep Reinforcement Learning Models.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598922)]
+   - Khaing Phyo Wai, Minghong Geng, Budhitama Subagdja, Shubham Pateria, Ah-Hwee Tan.
+ - **Learning Constraints From Human Stop-Feedback in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598923)]
+   - Silvia Poletti, Alberto Testolin, Sebastian Tschiatschek.
+ - **Hierarchical Reinforcement Learning for Ad Hoc Teaming.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598926)]
+   - Stéphane Aroca-Ouellette, Miguel Aroca-Ouellette, Upasana Biswas, Katharina Kann, Alessandro Roncone.
+ - **Multi-Agent Deep Reinforcement Learning for High-Frequency Multi-Market Making.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598950)]
+   - Pankaj Kumar.
+ - **TA-Explore: Teacher-Assisted Exploration for Facilitating Fast Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598951)]
+   - Ali Beikmohammadi, Sindri Magnússon.
+ - **Learning Individual Difference Rewards in Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598953)]
+   - Chen Yang, Guangkai Yang, Junge Zhang.
+ - **Off-Beat Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598955)]
+   - Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan.
+ - **AJAR: An Argumentation-based Judging Agents Framework for Ethical Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598956)]
+   - Benoît Alcaraz, Olivier Boissier, Rémy Chaput, Christopher Leturc.
+ - **Never Worse, Mostly Better: Stable Policy Improvement in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598957)]
+   - Pranav Khanna, Guy Tennenholtz, Nadav Merlis, Shie Mannor, Chen Tessler.
+ - **Selectively Sharing Experiences Improves Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598958)]
+   - Matthias Gerstgrasser, Tom Danino, Sarah Keren.
+ - **Off-the-Grid MARL: Datasets and Baselines for Offline Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598961)]
+   - Claude Formanek, Asad Jeewa, Jonathan P. Shock, Arnu Pretorius.
+ - **Search-Improved Game-Theoretic Multiagent Reinforcement Learning in General and Negotiation Games.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598962)]
+   - Zun Li, Marc Lanctot, Kevin R. McKee, Luke Marris, Ian Gemp, Daniel Hennes, Kate Larson, Yoram Bachrach, Michael P. Wellman, Paul Muller.
+ - **Grey-box Adversarial Attack on Communication in Multi-agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598963)]
+   - Xiao Ma, Wu-Jun Li.
+ - **Reward-Machine-Guided, Self-Paced Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598964)]
+   - Cevahir Köprülü, Ufuk Topcu.
+ - **Do As You Teach: A Multi-Teacher Approach to Self-Play in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598966)]
+   - Chaitanya Kharyal, Tanmay Sinha, Sai Krishna Gottipati, Fatemeh Abdollahi, Srijita Das, Matthew E. Taylor.
+ - **PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598967)]
+   - Jizhou Wu, Tianpei Yang, Xiaotian Hao, Jianye Hao, Yan Zheng, Weixun Wang, Matthew E. Taylor.
+ - **Multi-Agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598982)]
+   - Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, Antoine Lesage-Landry.
+ - **Optimizing Crop Management with Reinforcement Learning and Imitation Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598985)]
+   - Ran Tao, Pan Zhao, Jing Wu, Nicolas F. Martin, Matthew T. Harrison, Carla Sofia Santos Ferreira, Zahra Kalantari, Naira Hovakimyan.
+ - **Balancing Fairness and Efficiency in Transport Network Design through Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598992)]
+   - Dimitris Michailidis, Sennay Ghebreab, Fernando P. Santos.
+ - **Learning to Self-Reconfigure for Freeform Modular Robots via Altruism Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598996)]
+   - Lei Wu, Bin Guo, Qiuyun Zhang, Zhuo Sun, Jieyi Zhang, Zhiwen Yu.
+ - **Multi-Agent Path Finding via Reinforcement Learning with Hybrid Reward.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599007)]
+   - Cheng Zhao, Liansheng Zhuang, Haonan Liu, Yihong Huang, Jian Yang.
+ - **Learning to Perceive in Deep Model-Free Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599013)]
+   - Gonçalo Querido, Alberto Sardinha, Francisco S. Melo.
+ - **Analyzing the Sensitivity to Policy-Value Decoupling in Deep Reinforcement Learning Generalization.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599023)]
+   - Nasik Muhammad Nafi, Raja Farrukh Ali, William H. Hsu.
+ - **Reinforcement Learning with Depreciating Assets.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599024)]
+   - Taylor Dohmen, Ashutosh Trivedi.
+ - **Matching Options to Tasks using Option-Indexed Hierarchical Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599025)]
+   - Kushal Chauhan, Soumya Chatterjee, Akash Reddy, Aniruddha S, Balaraman Ravindran, Pradeep Shenoy.
+ - **Learning Solutions in Large Economic Networks using Deep Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599069)]
+   - Michael Curry, Alexander Trott, Soham Phade, Yu Bai, Stephan Zheng.
+ - **Offline Multi-Agent Reinforcement Learning with Coupled Value Factorization.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599076)]
+   - Xiangsen Wang, Xianyuan Zhan.
+ - **Hierarchical Reinforcement Learning with Attention Reward.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599084)]
+   - Sihong Luo, Jinghao Chen, Zheng Hu, Chunhong Zhang, Benhui Zhuang.
+ - **Know Your Enemy: Identifying and Adapting to Adversarial Attacks in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599087)]
+   - Seán Caulfield Curley, Karl Mason, Patrick Mannion.
+ - **Transformer Actor-Critic with Regularization: Automated Stock Trading using Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599088)]
+   - Namyeong Lee, Jun Moon.
+ - **Model-Based Actor-Critic for Multi-Objective Reinforcement Learning with Dynamic Utility Functions.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599089)]
+   - Johan Källström, Fredrik Heintz.
+ - **Relaxed Exploration Constrained Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599090)]
+   - Shahaf S. Shperberg, Bo Liu, Peter Stone.
+ - **Causality Detection for Efficient Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599091)]
+   - Rafael Pina, Varuna De Silva, Corentin Artaud.
+ - **Diversity Through Exclusion (DTE): Niche Identification for Reinforcement Learning through Value-Decomposition.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599092)]
+   - Peter Sunehag, Alexander Sasha Vezhnevets, Edgar A. Duéñez-Guzmán, Igor Mordatch, Joel Z. Leibo.
+ - **Multi-objective Reinforcement Learning in Factored MDPs with Graph Neural Networks.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599094)]
+   - Marc Vincent, Amal El Fallah Seghrouchni, Vincent Corruble, Narayan Bernardin, Rami Kassab, Frédéric Barbaresco.
+ - **Attention-Based Recurrency for Multi-Agent Reinforcement Learning under State Uncertainty.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599096)]
+   - Thomy Phan, Fabian Ritz, Jonas Nüßlein, Michael Kölle, Thomas Gabor, Claudia Linnhoff-Popien.
+ - **LTL-Based Non-Markovian Inverse Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599102)]
+   - Mohammad Afzal, Sankalp Gambhir, Ashutosh Gupta, S. Krishna, Ashutosh Trivedi, Alvaro Velasquez.
+ - **Counterfactual Explanations for Reinforcement Learning Agents.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599126)]
+   - Jasmina Gajcin.
+ - **Enhancing User Understanding of Reinforcement Learning Agents Through Visual Explanations.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599130)]
+   - Yotam Amitai.
+ - **Towards Sample-Efficient Multi-Objective Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599141)]
+   - Lucas Nunes Alegre.
+ - **Reinforcement Learning and Mechanism Design for Routing of Connected and Autonomous Vehicles.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599147)]
+   - Behrad Koohy.
+ - **Fair Transport Network Design using Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599149)]
+   - Dimitris Michailidis.
+ - **Reinforcement Learning in Multi-Objective Multi-Agent Systems.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599151)]
+   - Willem Röpke.
+ - **Learning Representations and Robust Exploration for Improved Generalization in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599162)]
+   - Nasik Muhammad Nafi.
+ - **Enhancing Smart, Sustainable Mobility with Game Theory and Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599163)]
+   - Lucia Cipolina-Kun.
+ - **Improvement and Evaluation of the Policy Legibility in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599167)]
+   - Yanyu Liu, Yifeng Zeng, Biyang Ma, Yinghui Pan, Huifan Gao, Xiaohan Huang.
+
+
 ### 2023-IJCAI
 
 > Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
+
+**Accepted Papers：**
 
  - **Explainable Multi-Agent Reinforcement Learning for Temporal Queries.** [[pdf](https://doi.org/10.24963/ijcai.2023/7)]
    - Kayla Boggess, Sarit Kraus, Lu Feng.
