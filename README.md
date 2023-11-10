@@ -48,23 +48,19 @@ Please help to contribute this list by contacting me or add pull request.
 
 ## Conferences in 2023
 
-#### 2023-AAAI
+### 2023-AAAI
 
 > Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
 
-
-
-#### 2023-AAMAS
+### 2023-AAMAS
 
 > Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.
 
-
-
-
-
-#### 2023-IJCAI
+### 2023-IJCAI
 
 > Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Washington, DC, USA, February 7-14, 2023.
+
+**Accepted Papers：**
 
  - **Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps.** [[pdf](https://doi.org/10.1609/aaai.v37i2.25325)]
    - Xingke Song, Jiahuan Jin, Chenglin Yao, Shihe Wang, Jianfeng Ren, Ruibin Bai.
@@ -249,21 +245,15 @@ Please help to contribute this list by contacting me or add pull request.
  - **SOREO: A System for Safe and Autonomous Drones Fleet Navigation with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i13.27058)]
    - Réda Alami, Hakim Hacid, Lorenzo Bellone, Michal Barcis, Enrico Natalizio.
 
-
-
-#### 2023-ICLR
+### 2023-ICLR
 
 >  The Eleventh International Conference on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023.
 
-
-
-#### 2023-ICML
+### 2023-ICML
 
 >International Conference on Machine Learning, ICML 2023, 23-29 July 2023, Honolulu, Hawaii, USA. 
 
-
-
-#### 2023-ICRA
+### 2023-ICRA
 
 > 2023 International Conference on Robotics and Automation, ICRA 2023, London, UK, May 29 - June 2, 2023. 
 
