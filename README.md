@@ -683,6 +683,8 @@ Please help to contribute this list by contacting me or add pull request.
    - Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang.
  - **Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching.** [[pdf](https://openreview.net/pdf?id=QjQibO3scV_)]
    - Chang Liu, Zetian Jiang, Runzhong Wang, Lingxiao Huang, Pinyan Lu, Junchi Yan.
+ - **Order Matters: Agent-by-agent Policy Optimization.** [[pdf](https://openreview.net/pdf?id=Q-neeWNVv1)]
+   - Xihuai Wang, Zheng Tian, Ziyu Wan, Ying Wen, Jun Wang, Weinan Zhang.
 
 ---
 
