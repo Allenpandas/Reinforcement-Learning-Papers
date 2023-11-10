@@ -19,6 +19,18 @@ Welcome to our GitHub repository! This repository is dedicated to curating signi
 </p>
 Please help to contribute this list by contacting me or add pull request.
 
+## Citation
+
+If you use this toolbox  in your research, please cite this project.
+
+```
+@misc{YalunAwesomeRLPapers,
+    author = {Yalun Wu},
+    title = {Awesome-Reinforcement-Learning-Papers},
+    year = {2023},
+    howpublished = {\url{https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers}}
+}
+```
 
 ## Table of Contents
 
