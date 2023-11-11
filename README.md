@@ -35,14 +35,17 @@ If you use this toolbox  in your research, please cite this project.
 ## Table of Contents
 
 - [Conferences in 2023](#Conferences-in-2023)
-- [2023-AAAI](#2023-AAAI)
+
+  - [2023-AAAI](#2023-AAAI)
+
   - [2023-AAMAS](#2023-AAMAS)
   - [2023-ICLR](#2023-ICLR)
   - [2023-ICML](#2023-ICML)
   - [2023-ICRA](#2023-ICRA)
-  
-- [2023-IJCAI](#2023-IJCAI)
+  - [2023-IJCAI](#2023-IJCAI)
+
 - [Conferences in 2022](#Conferences-in-2022)
+  
   - [2022-AAAI](#2022-AAAI)
   - [2022-AAMAS](#2022-AAMAS)
   - [2022-ICLR](#2022-ICLR)
@@ -50,10 +53,15 @@ If you use this toolbox  in your research, please cite this project.
   - [2022-ICRA](#2022-ICRA)
   - [2022-IJCAI](#2022-IJCAI)
   - [2022-NeurIPS](#2022-NeurIPS)
+  
 - [2021](#2021)
+
 - [2020](#2020)
+
 - [2019](#2019)
+
 - [2018](#2018)
+
 - [2017](#2017)
 
 
