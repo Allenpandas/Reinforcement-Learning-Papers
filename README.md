@@ -1226,6 +1226,74 @@ If you use this toolbox  in your research, please cite this project.
 
 **Accepted Papers：**
 
+ - **Toward Policy Explanations for Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/16)]
+   - Kayla Boggess, Sarit Kraus, Lu Feng.
+ - **Search-Based Testing of Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/72)]
+   - Martin Tappler, Filip Cano Córdoba, Bernhard K. Aichernig, Bettina Könighofer.
+ - **Fast and Fine-grained Autoscaler for Streaming Jobs with Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/80)]
+   - Mingzhe Xing, Hangyu Mao, Zhen Xiao.
+ - **AttExplainer: Explain Transformer via Attention by Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/102)]
+   - Runliang Niu, Zhepei Wei, Yan Wang, Qi Wang.
+ - **Feature and Instance Joint Selection: A Reinforcement Learning Perspective.** [[pdf](https://doi.org/10.24963/ijcai.2022/280)]
+   - Wei Fan, Kunpeng Liu, Hao Liu, Hengshu Zhu, Hui Xiong, Yanjie Fu.
+ - **Reinforcement Learning with Option Machines.** [[pdf](https://doi.org/10.24963/ijcai.2022/403)]
+   - Floris den Hengst, Vincent François-Lavet, Mark Hoogendoorn, Frank van Harmelen.
+ - **A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification.** [[pdf](https://doi.org/10.24963/ijcai.2022/415)]
+   - Ge Gao, Qitong Gao, Xi Yang, Miroslav Pajic, Min Chi.
+ - **Leveraging Class Abstraction for Commonsense Reinforcement Learning via Residual Policy Gradient Methods.** [[pdf](https://doi.org/10.24963/ijcai.2022/423)]
+   - Niklas Höpner, Ilaria Tiddi, Herke van Hoof.
+ - **Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training.** [[pdf](https://doi.org/10.24963/ijcai.2022/430)]
+   - Peide Huang, Mengdi Xu, Fei Fang, Ding Zhao.
+ - **Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems.** [[pdf](https://doi.org/10.24963/ijcai.2022/435)]
+   - Rushang Karia, Siddharth Srivastava.
+ - **Self-Predictive Dynamics for Generalization of Vision-based Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/437)]
+   - Kyungsoo Kim, Jeongsoo Ha, Yusung Kim.
+ - **JueWu-MC: Playing Minecraft with Sample-efficient Hierarchical Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/452)]
+   - Zichuan Lin, Junyou Li, Jianing Shi, Deheng Ye, Qiang Fu, Wei Yang.
+ - **Search-based Reinforcement Learning through Bandit Linear Optimization.** [[pdf](https://doi.org/10.24963/ijcai.2022/469)]
+   - Milan Peelman, Antoon Bronselaer, Guy De Tré.
+ - **Understanding the Limits of Poisoning Attacks in Episodic Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/471)]
+   - Anshuka Rangi, Haifeng Xu, Long Tran-Thanh, Massimo Franceschetti.
+ - **Markov Abstractions for PAC Reinforcement Learning in Non-Markov Decision Processes.** [[pdf](https://doi.org/10.24963/ijcai.2022/473)]
+   - Alessandro Ronca, Gabriel Paludo Licks, Giuseppe De Giacomo.
+ - **Lexicographic Multi-Objective Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/476)]
+   - Joar Skalse, Lewis Hammond, Charlie Griffin, Alessandro Abate.
+ - **Dynamic Sparse Training for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/477)]
+   - Ghada Sokar, Elena Mocanu, Decebal Constantin Mocanu, Mykola Pechenizkiy, Peter Stone.
+ - **CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/478)]
+   - Chenyu Sun, Hangwei Qian, Chunyan Miao.
+ - **On the (In)Tractability of Reinforcement Learning for LTL Objectives.** [[pdf](https://doi.org/10.24963/ijcai.2022/507)]
+   - Cambridge Yang, Michael L. Littman, Michael Carbin.
+ - **Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble.** [[pdf](https://doi.org/10.24963/ijcai.2022/508)]
+   - Zhengyu Yang, Kan Ren, Xufang Luo, Minghuan Liu, Weiqing Liu, Jiang Bian, Weinan Zhang, Dongsheng Li.
+ - **Towards Safe Reinforcement Learning via Constraining Conditional Value-at-Risk.** [[pdf](https://doi.org/10.24963/ijcai.2022/510)]
+   - Chengyang Ying, Xinning Zhou, Hang Su, Dong Yan, Ning Chen, Jun Zhu.
+ - **Don't Touch What Matters: Task-Aware Lipschitz Data Augmentation for Visual Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/514)]
+   - Zhecheng Yuan, Guozheng Ma, Yao Mu, Bo Xia, Bo Yuan, Xueqian Wang, Ping Luo, Huazhe Xu.
+ - **Penalized Proximal Policy Optimization for Safe Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/520)]
+   - Linrui Zhang, Li Shen, Long Yang, Shixiang Chen, Xueqian Wang, Bo Yuan, Dacheng Tao.
+ - **Multi-Constraint Deep Reinforcement Learning for Smooth Action Control.** [[pdf](https://doi.org/10.24963/ijcai.2022/528)]
+   - Guangyuan Zou, Ying He, F. Richard Yu, Longquan Chen, Weike Pan, Zhong Ming.
+ - **Multi-Agent Reinforcement Learning for Traffic Signal Control through Universal Communication Method.** [[pdf](https://doi.org/10.24963/ijcai.2022/535)]
+   - Qize Jiang, Minhao Qin, Shengmin Shi, Weiwei Sun, Baihua Zheng.
+ - **Learn Continuously, Act Discretely: Hybrid Action-Space Reinforcement Learning For Optimal Execution.** [[pdf](https://doi.org/10.24963/ijcai.2022/543)]
+   - Feiyang Pan, Tongzhe Zhang, Ling Luo, Jia He, Shuoling Liu.
+ - **Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems.** [[pdf](https://doi.org/10.24963/ijcai.2022/549)]
+   - Xu Wan, Lanting Zeng, Mingyang Sun.
+ - **Reinforcement Learning for Cross-Domain Hyper-Heuristics.** [[pdf](https://doi.org/10.24963/ijcai.2022/664)]
+   - Florian Mischek, Nysret Musliu.
+ - **Detect, Understand, Act: A Neuro-Symbolic Hierarchical Reinforcement Learning Framework (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2022/742)]
+   - Ludovico Mitchener, David Tuckey, Matthew Crosby, Alessandra Russo.
+ - **Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2022/747)]
+   - Ashish Sharma, Inna W. Lin, Adam S. Miner, Dave C. Atkins, Tim Althoff.
+ - **Goal-Conditioned Reinforcement Learning: Problems and Solutions.** [[pdf](https://doi.org/10.24963/ijcai.2022/770)]
+   - Minghuan Liu, Menghui Zhu, Weinan Zhang.
+ - **Abstraction for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/780)]
+   - Murray Shanahan, Melanie Mitchell.
+ - **Interactive Reinforcement Learning for Symbolic Regression from Multi-Format Human-Preference Feedbacks.** [[pdf](https://doi.org/10.24963/ijcai.2022/849)]
+   - Laure Crochepierre, Lydia Boudjeloud-Assala, Vincent Barbesant.
+
+
 ---
 
 ### 2022-ICLR
