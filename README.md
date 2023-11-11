@@ -42,7 +42,7 @@ If you use this toolbox  in your research, please cite this project.
   - [2023-ICRA](#2023-ICRA)
   
 - [2023-IJCAI](#2023-IJCAI)
-- [Conferences in 2022](#Conferences in 2022)
+- [Conferences in 2022](#Conferences-in-2022)
   - [2022-AAAI](#2022-AAAI)
   - [2022-AAMAS](#2022-AAMAS)
   - [2022-ICLR](#2022-ICLR)
