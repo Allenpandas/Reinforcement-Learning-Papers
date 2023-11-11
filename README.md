@@ -35,25 +35,25 @@ If you use this toolbox  in your research, please cite this project.
 ## Table of Contents
 
 - [Conferences in 2023](#Conferences-in-2023)
-
-  - [2023-AAAI](#2023-AAAI)
+- [2023-AAAI](#2023-AAAI)
   - [2023-AAMAS](#2023-AAMAS)
   - [2023-ICLR](#2023-ICLR)
   - [2023-ICML](#2023-ICML)
   - [2023-ICRA](#2023-ICRA)
-
-  - [2023-IJCAI](#2023-IJCAI)
-
-- [2022](#2022)
-
+  
+- [2023-IJCAI](#2023-IJCAI)
+- [Conferences in 2022](#Conferences in 2022)
+  - [2022-AAAI](#2022-AAAI)
+  - [2022-AAMAS](#2022-AAMAS)
+  - [2022-ICLR](#2022-ICLR)
+  - [2022-ICML](#2022-ICML)
+  - [2022-ICRA](#2022-ICRA)
+  - [2022-IJCAI](#2022-IJCAI)
+  - [2022-NeurIPS](#2022-NeurIPS)
 - [2021](#2021)
-
 - [2020](#2020)
-
 - [2019](#2019)
-
 - [2018](#2018)
-
 - [2017](#2017)
 
 
@@ -1101,11 +1101,167 @@ If you use this toolbox  in your research, please cite this project.
 
 **Accepted Papers：**
 
+ - **EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/ao22a.html)]
+   - Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang.
+ - **Optimizing Sequential Experimental Design with Deep Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/blau22a.html)]
+   - Tom Blau, Edwin V. Bonilla, Iadine Chades, Amir Dezfouli.
+ - **Interactive Inverse Reinforcement Learning for Cooperative Games.** [[pdf](https://proceedings.mlr.press/v162/buning22a.html)]
+   - Thomas Kleine Büning, Anne-Marie George, Christos Dimitrakakis.
+ - **Reinforcement Learning from Partial Observation: Linear Function Approximation with Provable Sample Efficiency.** [[pdf](https://proceedings.mlr.press/v162/cai22c.html)]
+   - Qi Cai, Zhuoran Yang, Zhaoran Wang.
+ - **Stabilizing Off-Policy Deep Reinforcement Learning from Pixels.** [[pdf](https://proceedings.mlr.press/v162/cetin22a.html)]
+   - Edoardo Cetin, Philip J. Ball, Stephen J. Roberts, Oya Çeliktutan.
+ - **Human-in-the-loop: Provably Efficient Preference-based Reinforcement Learning with General Function Approximation.** [[pdf](https://proceedings.mlr.press/v162/chen22ag.html)]
+   - Xiaoyu Chen, Han Zhong, Zhuoran Yang, Zhaoran Wang, Liwei Wang.
+ - **Adversarially Trained Actor Critic for Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/cheng22b.html)]
+   - Ching-An Cheng, Tengyang Xie, Nan Jiang, Alekh Agarwal.
+ - **Balancing Sample Efficiency and Suboptimality in Inverse Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/damiani22a.html)]
+   - Angelo Damiani, Giorgio Manganini, Alberto Maria Metelli, Marcello Restelli.
+ - **Guarantees for Epsilon-Greedy Reinforcement Learning with Function Approximation.** [[pdf](https://proceedings.mlr.press/v162/dann22a.html)]
+   - Christoph Dann, Yishay Mansour, Mehryar Mohri, Ayush Sekhari, Karthik Sridharan.
+ - **DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations.** [[pdf](https://proceedings.mlr.press/v162/deng22a.html)]
+   - Fei Deng, Ingook Jang, Sungjin Ahn.
+ - **Branching Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/du22a.html)]
+   - Yihan Du, Wei Chen.
+ - **Provable Reinforcement Learning with a Short-Term Memory.** [[pdf](https://proceedings.mlr.press/v162/efroni22a.html)]
+   - Yonathan Efroni, Chi Jin, Akshay Krishnamurthy, Sobhan Miryoosefi.
+ - **DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck.** [[pdf](https://proceedings.mlr.press/v162/fan22b.html)]
+   - Jiameng Fan, Wenchao Li.
+ - **Cascaded Gaps: Towards Logarithmic Regret for Risk-Sensitive Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/fei22b.html)]
+   - Yingjie Fei, Ruitu Xu.
+ - **Fast Population-Based Reinforcement Learning on a Single Machine.** [[pdf](https://proceedings.mlr.press/v162/flajolet22a.html)]
+   - Arthur Flajolet, Claire Bizon Monroc, Karim Beguir, Thomas Pierrot.
+ - **Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/fu22d.html)]
+   - Wei Fu, Chao Yu, Zelai Xu, Jiaqi Yang, Yi Wu.
+ - **Blocks Assemble! Learning to Assemble with Large-Scale Structured Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/ghasemipour22a.html)]
+   - Seyed Kamyar Seyed Ghasemipour, Satoshi Kataoka, Byron David, Daniel Freeman, Shixiang Shane Gu, Igor Mordatch.
+ - **Retrieval-Augmented Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/goyal22a.html)]
+   - Anirudh Goyal, Abram L. Friesen, Andrea Banino, Theophane Weber, Nan Rosemary Ke, Adrià Puigdomènech Badia, Arthur Guez, Mehdi Mirza, Peter C. Humphreys, Ksenia Konyushkova, Michal Valko, Simon Osindero, Timothy P. Lillicrap, Nicolas Heess, Charles Blundell.
+ - **The State of Sparse Training in Deep Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/graesser22a.html)]
+   - Laura Graesser, Utku Evci, Erich Elsen, Pablo Samuel Castro.
+ - **Learning Pseudometric-based Action Representations for Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/gu22b.html)]
+   - Pengjie Gu, Mengchen Zhao, Chen Chen, Dong Li, Jianye Hao, Bo An.
+ - **Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity.** [[pdf](https://proceedings.mlr.press/v162/guan22c.html)]
+   - Lin Guan, Sarath Sreedharan, Subbarao Kambhampati.
+ - **Provably Efficient Offline Reinforcement Learning for Partially Observable Markov Decision Processes.** [[pdf](https://proceedings.mlr.press/v162/guo22a.html)]
+   - Hongyi Guo, Qi Cai, Yufeng Zhang, Zhuoran Yang, Zhaoran Wang.
+ - **Off-Policy Reinforcement Learning with Delayed Rewards.** [[pdf](https://proceedings.mlr.press/v162/han22e.html)]
+   - Beining Han, Zhizhou Ren, Zuofan Wu, Yuan Zhou, Jian Peng.
+ - **Bisimulation Makes Analogies in Goal-Conditioned Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/hansen-estruch22a.html)]
+   - Philippe Hansen-Estruch, Amy Zhang, Ashvin Nair, Patrick Yin, Sergey Levine.
+ - **Nearly Minimax Optimal Reinforcement Learning with Linear Function Approximation.** [[pdf](https://proceedings.mlr.press/v162/hu22a.html)]
+   - Pihe Hu, Yu Chen, Longbo Huang.
+ - **On the Role of Discount Factor in Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/hu22d.html)]
+   - Hao Hu, Yiqin Yang, Qianchuan Zhao, Chongjie Zhang.
+ - **MASER: Multi-Agent Reinforcement Learning with Subgoals Generated from Experience Replay Buffer.** [[pdf](https://proceedings.mlr.press/v162/jeon22a.html)]
+   - Jeewon Jeon, Woojun Kim, Whiyoung Jung, Youngchul Sung.
+ - **Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling.** [[pdf](https://proceedings.mlr.press/v162/khodadadian22a.html)]
+   - Sajad Khodadadian, Pranay Sharma, Gauri Joshi, Siva Theja Maguluri.
+ - **Curriculum Reinforcement Learning via Constrained Optimal Transport.** [[pdf](https://proceedings.mlr.press/v162/klink22a.html)]
+   - Pascal Klink, Haoyi Yang, Carlo D'Eramo, Jan Peters, Joni Pajarinen.
+ - **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters.** [[pdf](https://proceedings.mlr.press/v162/kurenkov22a.html)]
+   - Vladislav Kurenkov, Sergey Kolesnikov.
+ - **Goal Misgeneralization in Deep Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/langosco22a.html)]
+   - Lauro Langosco di Langosco, Jack Koch, Lee D. Sharkey, Jacob Pfau, David Krueger.
+ - **Scalable Deep Reinforcement Learning Algorithms for Mean Field Games.** [[pdf](https://proceedings.mlr.press/v162/lauriere22a.html)]
+   - Mathieu Laurière, Sarah Perrin, Sertan Girgin, Paul Muller, Ayush Jain, Theophile Cabannes, Georgios Piliouras, Julien Pérolat, Romuald Elie, Olivier Pietquin, Matthieu Geist.
+ - **Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/li22g.html)]
+   - Yunfei Li, Tian Gao, Jiaqi Yang, Huazhe Xu, Yi Wu.
+ - **Deconfounded Value Decomposition for Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/li22l.html)]
+   - Jiahui Li, Kun Kuang, Baoxiang Wang, Furui Liu, Long Chen, Changjie Fan, Fei Wu, Jun Xiao.
+ - **PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration.** [[pdf](https://proceedings.mlr.press/v162/li22s.html)]
+   - Pengyi Li, Hongyao Tang, Tianpei Yang, Xiaotian Hao, Tong Sang, Yan Zheng, Jianye Hao, Matthew E. Taylor, Wenyuan Tao, Zhen Wang.
+ - **Delayed Reinforcement Learning by Imitation.** [[pdf](https://proceedings.mlr.press/v162/liotet22a.html)]
+   - Pierre Liotet, Davide Maran, Lorenzo Bisi, Marcello Restelli.
+ - **Constrained Variational Policy Optimization for Safe Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/liu22b.html)]
+   - Zuxin Liu, Zhepeng Cen, Vladislav Isenbaev, Wei Liu, Zhiwei Steven Wu, Bo Li, Ding Zhao.
+ - **Welfare Maximization in Competitive Equilibrium: Reinforcement Learning for Markov Exchange Economy.** [[pdf](https://proceedings.mlr.press/v162/liu22l.html)]
+   - Zhihan Liu, Miao Lu, Zhaoran Wang, Michael I. Jordan, Zhuoran Yang.
+ - **Learning Dynamics and Generalization in Deep Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/lyle22a.html)]
+   - Clare Lyle, Mark Rowland, Will Dabney, Marta Kwiatkowska, Yarin Gal.
+ - **Pessimism meets VCG: Learning Dynamic Mechanism Design via Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/lyu22b.html)]
+   - Boxiang Lyu, Zhaoran Wang, Mladen Kolar, Zhuoran Yang.
+ - **On Improving Model-Free Algorithms for Decentralized Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/mao22a.html)]
+   - Weichao Mao, Lin Yang, Kaiqing Zhang, Tamer Basar.
+ - **Optimizing Tensor Network Contraction Using Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/meirom22a.html)]
+   - Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik.
+ - **A Simple Reward-free Approach to Constrained Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/miryoosefi22a.html)]
+   - Sobhan Miryoosefi, Chi Jin.
+ - **EqR: Equivariant Representations for Data-Efficient Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/mondal22a.html)]
+   - Arnab Kumar Mondal, Vineet Jain, Kaleem Siddiqi, Siamak Ravanbakhsh.
+ - **The Primacy Bias in Deep Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/nikishin22a.html)]
+   - Evgenii Nikishin, Max Schwarzer, Pierluca D'Oro, Pierre-Luc Bacon, Aaron C. Courville.
+ - **History Compression via Language Models in Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/paischer22a.html)]
+   - Fabian Paischer, Thomas Adler, Vihang P. Patil, Angela Bitto-Nemling, Markus Holzleitner, Sebastian Lehner, Hamid Eghbal-Zadeh, Sepp Hochreiter.
+ - **Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification.** [[pdf](https://proceedings.mlr.press/v162/pan22a.html)]
+   - Ling Pan, Longbo Huang, Tengyu Ma, Huazhe Xu.
+ - **Offline Meta-Reinforcement Learning with Online Self-Supervision.** [[pdf](https://proceedings.mlr.press/v162/pong22a.html)]
+   - Vitchyr H. Pong, Ashvin V. Nair, Laura M. Smith, Catherine Huang, Sergey Levine.
+ - **Sample-Efficient Reinforcement Learning with loglog(T) Switching Cost.** [[pdf](https://proceedings.mlr.press/v162/qiao22a.html)]
+   - Dan Qiao, Ming Yin, Ming Min, Yu-Xiang Wang.
+ - **Contrastive UCB: Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/qiu22c.html)]
+   - Shuang Qiu, Lingxiao Wang, Chenjia Bai, Zhuoran Yang, Zhaoran Wang.
+ - **Direct Behavior Specification via Constrained Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/roy22a.html)]
+   - Julien Roy, Roger Girgis, Joshua Romoff, Pierre-Luc Bacon, Christopher J. Pal.
+ - **Reinforcement Learning with Action-Free Pre-Training from Videos.** [[pdf](https://proceedings.mlr.press/v162/seo22a.html)]
+   - Younggyo Seo, Kimin Lee, Stephen L. James, Pieter Abbeel.
+ - **Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation.** [[pdf](https://proceedings.mlr.press/v162/sessa22a.html)]
+   - Pier Giuseppe Sessa, Maryam Kamgarpour, Andreas Krause.
+ - **A State-Distribution Matching Approach to Non-Episodic Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/sharma22a.html)]
+   - Archit Sharma, Rehaan Ahmad, Chelsea Finn.
+ - **DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/sheikh22a.html)]
+   - Hassam Sheikh, Kizza Frisbee, Mariano Phielipp.
+ - **Pessimistic Q-Learning for Offline Reinforcement Learning: Towards Optimal Sample Complexity.** [[pdf](https://proceedings.mlr.press/v162/shi22c.html)]
+   - Laixi Shi, Gen Li, Yuting Wei, Yuxin Chen, Yuejie Chi.
+ - **Disentangling Sources of Risk for Distributional Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/son22a.html)]
+   - Kyunghwan Son, Junsu Kim, Sungsoo Ahn, Roben Delos Reyes, Yung Yi, Jinwoo Shin.
+ - **Saute RL: Almost Surely Safe Reinforcement Learning Using State Augmentation.** [[pdf](https://proceedings.mlr.press/v162/sootla22a.html)]
+   - Aivar Sootla, Alexander I. Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David Henry Mguni, Jun Wang, Haitham Ammar.
+ - **Cliff Diving: Exploring Reward Surfaces in Reinforcement Learning Environments.** [[pdf](https://proceedings.mlr.press/v162/sullivan22a.html)]
+   - Ryan Sullivan, Jordan K. Terry, Benjamin Black, John P. Dickerson.
+ - **Biased Gradient Estimate with Drastic Variance Reduction for Meta Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/tang22a.html)]
+   - Yunhao Tang.
+ - **Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/villaflor22a.html)]
+   - Adam R. Villaflor, Zhe Huang, Swapnil Pande, John M. Dolan, Jeff Schneider.
+ - **First-Order Regret in Reinforcement Learning with Linear Function Approximation: A Robust Estimation Approach.** [[pdf](https://proceedings.mlr.press/v162/wagenmaker22a.html)]
+   - Andrew J. Wagenmaker, Yifang Chen, Max Simchowitz, Simon S. Du, Kevin G. Jamieson.
+ - **Training Characteristic Functions with Reinforcement Learning: XAI-methods play Connect Four.** [[pdf](https://proceedings.mlr.press/v162/waldchen22a.html)]
+   - Stephan Wäldchen, Sebastian Pokutta, Felix Huber.
+ - **Greedy based Value Representation for Optimal Coordination in Multi-agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/wan22c.html)]
+   - Lipeng Wan, Zeyang Liu, Xingyu Chen, Xuguang Lan, Nanning Zheng.
+ - **Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods.** [[pdf](https://proceedings.mlr.press/v162/wan22d.html)]
+   - Yi Wan, Ali Rahimi-Kalahroudi, Janarthanan Rajendran, Ida Momennejad, Sarath Chandar, Harm van Seijen.
+ - **Model-based Meta Reinforcement Learning using Graph Structured Surrogate Models and Amortized Policy Search.** [[pdf](https://proceedings.mlr.press/v162/wang22z.html)]
+   - Qi Wang, Herke van Hoof.
+ - **Individual Reward Assisted Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/wang22ao.html)]
+   - Li Wang, Yupeng Zhang, Yujing Hu, Weixun Wang, Chongjie Zhang, Yang Gao, Jianye Hao, Tangjie Lv, Changjie Fan.
+ - **Policy Gradient Method For Robust Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/wang22at.html)]
+   - Yue Wang, Shaofeng Zou.
+ - **Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics.** [[pdf](https://proceedings.mlr.press/v162/weissenbacher22a.html)]
+   - Matthias Weissenbacher, Samarth Sinha, Animesh Garg, Yoshinobu Kawahara.
+ - **Distributional Hamilton-Jacobi-Bellman Equations for Continuous-Time Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/wiltzer22a.html)]
+   - Harley E. Wiltzer, David Meger, Marc G. Bellemare.
+ - **Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum.** [[pdf](https://proceedings.mlr.press/v162/wu22k.html)]
+   - Junlin Wu, Yevgeniy Vorobeychik.
+ - **Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/yang22b.html)]
+   - Shentao Yang, Yihao Feng, Shujian Zhang, Mingyuan Zhou.
+ - **How to Leverage Unlabeled Data in Offline Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/yu22c.html)]
+   - Tianhe Yu, Aviral Kumar, Yevgen Chebotar, Karol Hausman, Chelsea Finn, Sergey Levine.
+ - **Reachability Constrained Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/yu22d.html)]
+   - Dongjie Yu, Haitong Ma, Sheng-bo Li, Jianyu Chen.
+ - **Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/yu22e.html)]
+   - Sixing Yu, Arya Mazaheri, Ali Jannesari.
+ - **Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning.** [[pdf](https://proceedings.mlr.press/v162/yuan22a.html)]
+   - Haoqi Yuan, Zongqing Lu.
+ - **Actor-Critic based Improper Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/zaki22a.html)]
+   - Mohammadi Zaki, Avi Mohan, Aditya Gopalan, Shie Mannor.
+ - **Efficient Reinforcement Learning in Block MDPs: A Model-free Representation Learning approach.** [[pdf](https://proceedings.mlr.press/v162/zhang22aa.html)]
+   - Xuezhou Zhang, Yuda Song, Masatoshi Uehara, Mengdi Wang, Alekh Agarwal, Wen Sun.
+ - **A Hierarchical Bayesian Approach to Inverse Reinforcement Learning with Symbolic Reward Machines.** [[pdf](https://proceedings.mlr.press/v162/zhou22b.html)]
+   - Weichao Zhou, Wenchao Li.
+
+
 ---
-
-
-
-
 
 ### 2022-ICRA
 
