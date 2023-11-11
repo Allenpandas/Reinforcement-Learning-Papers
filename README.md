@@ -1213,11 +1213,325 @@ If you use this toolbox  in your research, please cite this project.
 
 **Accepted Papers：**
 
+ - **Adaptive Interest for Emphatic Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/008079ec00eec9760ee93af5434ee932-Abstract-Conference.html)]
+   - Martin Klissarov, Rasool Fakoor, Jonas W. Mueller, Kavosh Asadi, Taesup Kim, Alexander J. Smola.
+ - **Offline Multi-Agent Reinforcement Learning with Knowledge Distillation.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/01d78b294d80491fecddea897cf03642-Abstract-Conference.html)]
+   - Wei-Cheng Tseng, Tsun-Hsuan Johnson Wang, Yen-Chen Lin, Phillip Isola.
+ - **Offline Goal-Conditioned Reinforcement Learning via $f$-Advantage Regression.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/022a39052abf9ca467e268923057dfc0-Abstract-Conference.html)]
+   - Yecheng Jason Ma, Jason Yan, Dinesh Jayaraman, Osbert Bastani.
+ - **Model-Based Offline Reinforcement Learning with Pessimism-Modulated Dynamics Belief.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/03469b1a66e351b18272be23baf3b809-Abstract-Conference.html)]
+   - Kaiyang Guo, Yunfeng Shao, Yanhui Geng.
+ - **Identifiability and generalizability from multiple experts in Inverse Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/03bdba50e3741ac5e3eaa0e55423587e-Abstract-Conference.html)]
+   - Paul Rolland, Luca Viano, Norman Schürhoff, Boris Nikolov, Volkan Cevher.
+ - **Provably Efficient Reinforcement Learning in Partially Observable Dynamical Systems.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/03d7e13f0092405804f3a381ade8f3f0-Abstract-Conference.html)]
+   - Masatoshi Uehara, Ayush Sekhari, Jason D. Lee, Nathan Kallus, Wen Sun.
+ - **Tiered Reinforcement Learning: Pessimism in the Face of Uncertainty and Constant Regret.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0463ec87d0ac1e98a6cbe3d95d4e3e35-Abstract-Conference.html)]
+   - Jiawei Huang, Li Zhao, Tao Qin, Wei Chen, Nan Jiang, Tie-Yan Liu.
+ - **DOPE: Doubly Optimistic and Pessimistic Exploration for Safe Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/076a93fd42aa85f5ccee921a01d77dd5-Abstract-Conference.html)]
+   - Archana Bura, Aria HasanzadeZonuzy, Dileep Kalathil, Srinivas Shakkottai, Jean-François Chamberland.
+ - **LDSA: Learning Dynamic Subtask Assignment in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0b4145b562cc22fb7fa50a2cd17c191d-Abstract-Conference.html)]
+   - Mingyu Yang, Jian Zhao, Xunhan Hu, Wengang Zhou, Jiangcheng Zhu, Houqiang Li.
+ - **Mildly Conservative Q-Learning for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0b5669c3b07bb8429af19a7919376ff5-Abstract-Conference.html)]
+   - Jiafei Lyu, Xiaoteng Ma, Xiu Li, Zongqing Lu.
+ - **Reinforcement Learning with Automated Auxiliary Loss Search.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0be44cc1d459731928501cae5699f57a-Abstract-Conference.html)]
+   - Tairan He, Yuge Zhang, Kan Ren, Minghuan Liu, Che Wang, Weinan Zhang, Yuqing Yang, Dongsheng Li.
+ - **FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0bf54b80686d2c4dc0808c2e98d430f7-Abstract-Datasets_and_Benchmarks.html)]
+   - Xiao-Yang Liu, Ziyi Xia, Jingyang Rui, Jiechao Gao, Hongyang Yang, Ming Zhu, Christina Dan Wang, Zhaoran Wang, Jian Guo.
+ - **Incrementality Bidding via Reinforcement Learning under Mixed and Delayed Rewards.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0ee633a6ade45eab4276352b3ee79c7a-Abstract-Conference.html)]
+   - Ashwinkumar Badanidiyuru Varadaraja, Zhe Feng, Tianxi Li, Haifeng Xu.
+ - **Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/0f94c552e5fe82bc152494985e34bd48-Abstract-Conference.html)]
+   - Albert Wilcox, Ashwin Balakrishna, Jules Dedieu, Wyame Benslimane, Daniel S. Brown, Ken Goldberg.
+ - **Open-Ended Reinforcement Learning with Neural Reward Functions.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/10a6bdcabbd5a3d36b760daa295f63c1-Abstract-Conference.html)]
+   - Robert Meier, Asier Mujika.
+ - **Towards Safe Reinforcement Learning with a Safety Editor Policy.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/11afefdd848d1bc9ac9f1604d9f45817-Abstract-Conference.html)]
+   - Haonan Yu, Wei Xu, Haichao Zhang.
+ - **Sustainable Online Reinforcement Learning for Auto-bidding.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/11faf17bf7e5412d9cded369f97db23d-Abstract-Conference.html)]
+   - Zhiyu Mou, Yusen Huo, Rongquan Bai, Mingzhou Xie, Chuan Yu, Jian Xu, Bo Zheng.
+ - **Enhanced Meta Reinforcement Learning via Demonstrations in Sparse Reward Environments.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/122f45f4d451617ac87adf7024ee14cd-Abstract-Conference.html)]
+   - Desik Rengarajan, Sapana Chaudhary, Jaewon Kim, Dileep Kalathil, Srinivas Shakkottai.
+ - **Bellman Residual Orthogonalization for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/14ecbfb2216bab76195b60bfac7efb1f-Abstract-Conference.html)]
+   - Andrea Zanette, Martin J. Wainwright.
+ - **Online Reinforcement Learning for Mixed Policy Scopes.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/15349e1c554406b7719d047a498e7117-Abstract-Conference.html)]
+   - Junzhe Zhang, Elias Bareinboim.
+ - **Reinforcement Learning with Non-Exponential Discounting.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/178b306c7ee66a66db2171646e17da36-Abstract-Conference.html)]
+   - Matthias Schultheis, Constantin A. Rothkopf, Heinz Koeppl.
+ - **Discrete Compositional Representations as an Abstraction for Goal Conditioned Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/18ddfb199d71a8a24f83abc1ced077b7-Abstract-Conference.html)]
+   - Riashat Islam, Hongyu Zang, Anirudh Goyal, Alex M. Lamb, Kenji Kawaguchi, Xin Li, Romain Laroche, Yoshua Bengio, Remi Tachet des Combes.
+ - **A Policy-Guided Imitation Approach for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/1a0755b249b772ed5529796b0a7cc9bd-Abstract-Conference.html)]
+   - Haoran Xu, Li Jiang, Jianxiong Li, Xianyuan Zhan.
+ - **Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/1c153788756d35559c22d105d1182c30-Abstract-Conference.html)]
+   - Yuchen Xiao, Weihao Tan, Christopher Amato.
+ - **Challenging Common Assumptions in Convex Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/1cb5b3d64bdf3c6642c8d9a8fbecd019-Abstract-Conference.html)]
+   - Mirco Mutti, Riccardo De Santi, Piersilvio De Bartolomeis, Marcello Restelli.
+ - **Constrained GPI for Zero-Shot Transfer in Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/1d8dc55c1f6cf124af840ce1d92d1896-Abstract-Conference.html)]
+   - Jaekyeom Kim, Seohong Park, Gunhee Kim.
+ - **Understanding Deep Neural Function Approximation in Reinforcement Learning via $\epsilon$-Greedy Exploration.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2119b5ac365c30dfac17a840c2755c30-Abstract-Conference.html)]
+   - Fanghui Liu, Luca Viano, Volkan Cevher.
+ - **Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/217a2a387f52c30755c37b0a73430291-Abstract-Datasets_and_Benchmarks.html)]
+   - Yuanpei Chen, Tianhao Wu, Shengjie Wang, Xidong Feng, Jiechuan Jiang, Zongqing Lu, Stephen McAleer, Hao Dong, Song-Chun Zhu, Yaodong Yang.
+ - **ResQ: A Residual Q Function-based Approach for Multi-Agent Reinforcement Learning Value Factorization.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2456a42386e445ba884511aa17ca4a30-Abstract-Conference.html)]
+   - Siqi Shen, Mengwei Qiu, Jun Liu, Weiquan Liu, Yongquan Fu, Xinwang Liu, Cheng Wang.
+ - **Self-Organized Group for Cooperative Multi-agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/25b040c97a75021e57100648a20b1e10-Abstract-Conference.html)]
+   - Jianzhun Shao, Zhiqiang Lou, Hongchang Zhang, Yuhang Jiang, Shuncheng He, Xiangyang Ji.
+ - **Exploration-Guided Reward Shaping for Reinforcement Learning under Sparse Rewards.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/266c0f191b04cbbbe529016d0edc847e-Abstract-Conference.html)]
+   - Rati Devidze, Parameswaran Kamalaruban, Adish Singla.
+ - **Active Exploration for Inverse Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/26d01e5ed42d8dcedd6aa0e3e99cffc4-Abstract-Conference.html)]
+   - David Lindner, Andreas Krause, Giorgia Ramponi.
+ - **Disentangling Transfer in Continual Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2938ad0434a6506b125d8adaff084a4a-Abstract-Conference.html)]
+   - Maciej Wolczyk, Michal Zajac, Razvan Pascanu, Lukasz Kucinski, Piotr Milos.
+ - **Quantile Constrained Reinforcement Learning: A Reinforcement Learning Framework Constraining Outage Probability.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/2a07348a6a7b2c208ab5cb1ee0e78ab5-Abstract-Conference.html)]
+   - Whiyoung Jung, Myungsik Cho, Jongeui Park, Youngchul Sung.
+ - **Grounded Reinforcement Learning: Learning to Win the Game under Human Commands.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/318f3ae8be3c97cb7555e1c932f472a1-Abstract-Conference.html)]
+   - Shusheng Xu, Huaijie Wang, Yi Wu.
+ - **CEIP: Combining Explicit and Implicit Priors for Reinforcement Learning with Demonstrations.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/322e4a595afd9442a89f0bfaa441871e-Abstract-Conference.html)]
+   - Kai Yan, Alexander G. Schwing, Yu-Xiong Wang.
+ - **Meta-Reinforcement Learning with Self-Modifying Networks.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/332b4fbe322e11a71fa39d91c664d8fa-Abstract-Conference.html)]
+   - Mathieu Chalvidal, Thomas Serre, Rufin VanRullen.
+ - **Near Instance-Optimal PAC Reinforcement Learning for Deterministic MDPs.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/39c60dda48ebf0a2e5dda52ce08eb5c8-Abstract-Conference.html)]
+   - Andrea Tirinzoni, Aymen Al Marjani, Emilie Kaufmann.
+ - **Deciding What to Model: Value-Equivalent Sampling for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/3b18d368150474ac6fc9bb665d3eb3da-Abstract-Conference.html)]
+   - Dilip Arumugam, Benjamin Van Roy.
+ - **A Deep Reinforcement Learning Framework for Column Generation.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/3ecfe5c632afb7d96a2337b18ff99b1f-Abstract-Conference.html)]
+   - Cheng Chi, Amine Mohamed Aboussalah, Elias B. Khalil, Juyoung Wang, Zoha Sherkat-Masoumi.
+ - **Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/41bd71e7bf7f9fe68f1c936940fd06bd-Abstract-Conference.html)]
+   - Siliang Zeng, Chenliang Li, Alfredo Garcia, Mingyi Hong.
+ - **A Unified Diversity Measure for Multiagent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/435cce71b4007699041dfffa4f034079-Abstract-Conference.html)]
+   - Zongkai Liu, Chao Yu, Yaodong Yang, Peng Sun, Zifan Wu, Yuan Li.
+ - **Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4556f5398bd2c61bd7500e306b4e560a-Abstract-Conference.html)]
+   - Peide Huang, Mengdi Xu, Jiacheng Zhu, Laixi Shi, Fei Fang, Ding Zhao.
+ - **Optimistic Posterior Sampling for Reinforcement Learning with Few Samples and Tight Guarantees.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html)]
+   - Daniil Tiapkin, Denis Belomestny, Daniele Calandriello, Eric Moulines, Rémi Munos, Alexey Naumov, Mark Rowland, Michal Valko, Pierre Ménard.
+ - **Understanding the Evolution of Linear Regions in Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4685275b9a6a2c55d78135563dfd50bb-Abstract-Conference.html)]
+   - Setareh Cohan, Nam Hee Kim, David Rolnick, Michiel van de Panne.
+ - **Provably Feedback-Efficient Reinforcement Learning via Active Reward Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/476c289f685e27936aa089e9d53a4213-Abstract-Conference.html)]
+   - Dingwen Kong, Lin Yang.
+ - **Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/49be51578b507f37cd8b5fad379af183-Abstract-Conference.html)]
+   - Zhiwei Xu, Dapeng Li, Bin Zhang, Yuan Zhan, Yunpeng Bai, Guoliang Fan.
+ - **S2P: State-conditioned Image Synthesis for Data Augmentation in Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4b32c2943a02331792877cc6b5205f49-Abstract-Conference.html)]
+   - Daesol Cho, Dongseok Shim, H. Jin Kim.
+ - **Provably Efficient Offline Multi-agent Reinforcement Learning via Strategy-wise Bonus.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4cca5640267b416cef4f00630aef93a2-Abstract-Conference.html)]
+   - Qiwen Cui, Simon S. Du.
+ - **Honor of Kings Arena: an Environment for Generalization in Competitive Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)]
+   - Hua Wei, Jingxiao Chen, Xiyang Ji, Hongyang Qin, Minwen Deng, Siqin Li, Liang Wang, Weinan Zhang, Yong Yu, Liu Lin, Lanxiao Huang, Deheng Ye, Qiang Fu, Wei Yang.
+ - **Value Function Decomposition for Iterative Design of Reinforcement Learning Agents.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4eb2c0adafbe71269f3a772c130f9e53-Abstract-Conference.html)]
+   - James MacGlashan, Evan Archer, Alisa Devlic, Takuma Seno, Craig Sherstan, Peter R. Wurman, Peter Stone.
+ - **E-MAPP: Efficient Multi-Agent Reinforcement Learning with Parallel Program Guidance.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/4f2accafe6fa355624f3ee42207cc7b8-Abstract-Conference.html)]
+   - Can Chang, Ni Mu, Jiajun Wu, Ling Pan, Huazhe Xu.
+ - **Distributional Reward Estimation for Effective Multi-agent Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/520425a5a4c2fb7f7fc345078b188201-Abstract-Conference.html)]
+   - Jifeng Hu, Yanchao Sun, Hechang Chen, Sili Huang, Haiyin Piao, Yi Chang, Lichao Sun.
+ - **Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/548a482d4496ce109cddfbeae5defa7d-Abstract-Conference.html)]
+   - Zhecheng Yuan, Zhengrong Xue, Bo Yuan, Xueqian Wang, Yi Wu, Yang Gao, Huazhe Xu.
+ - **Shield Decentralization for Safe Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/57444e14ecd9e2c8f603b4f012ce3811-Abstract-Conference.html)]
+   - Daniel Melcer, Christopher Amato, Stavros Tripakis.
+ - **Anchor-Changing Regularized Natural Policy Gradient for Multi-Objective Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/57fbe68cb318cad62c4ae4c91c83cba3-Abstract-Conference.html)]
+   - Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, Chao Tian.
+ - **Meta Reinforcement Learning with Finite Training Tasks - a Density Estimation Approach.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5833b4daf5b076dd1cdb362b163dff0c-Abstract-Conference.html)]
+   - Zohar Rimon, Aviv Tamar, Gilad Adler.
+ - **DHRL: A Graph-Based Approach for Long-Horizon and Sparse Hierarchical Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/58b286aea34a91a3d33e58af0586fa40-Abstract-Conference.html)]
+   - Seungjae Lee, Jigang Kim, Inkyu Jang, H. Jin Kim.
+ - **Bayesian Optimistic Optimization: Optimistic Exploration for Model-based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5bcb807ae43ad0851a6ba6162a866404-Abstract-Conference.html)]
+   - Chenyang Wu, Tianci Li, Zongzhang Zhang, Yang Yu.
+ - **Reinforcement Learning in a Birth and Death Process: Breaking the Dependence on the State Space.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5d2781cc34f459618a9a504761043055-Abstract-Conference.html)]
+   - Jonatha Anselmi, Bruno Gaujal, Louis-Sébastien Rebuffi.
+ - **Provable Defense against Backdoor Policies in Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5e67e6a814526079ad8505bf6d926fb6-Abstract-Conference.html)]
+   - Shubham Kumar Bharti, Xuezhou Zhang, Adish Singla, Jerry Zhu.
+ - **You Only Live Once: Single-Life Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5ec4e93f2cec19d47ef852a0e1fb2c48-Abstract-Conference.html)]
+   - Annie S. Chen, Archit Sharma, Sergey Levine, Chelsea Finn.
+ - **Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5ee7ed60a7e8169012224dec5fe0d27f-Abstract-Conference.html)]
+   - Allen Nie, Yannis Flet-Berliac, Deon R. Jordan, William Steenbergen, Emma Brunskill.
+ - **On Gap-dependent Bounds for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/5f5f7b6080dcadced61cf5d96f7c6dde-Abstract-Conference.html)]
+   - Xinqi Wang, Qiwen Cui, Simon S. Du.
+ - **GriddlyJS: A Web IDE for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html)]
+   - Christopher Bamford, Minqi Jiang, Mikayel Samvelyan, Tim Rocktäschel.
+ - **Learning to Share in Networked Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/61d8577984e4ef0cba20966eb3ef2ed8-Abstract-Conference.html)]
+   - Yuxuan Yi, Ge Li, Yaowei Wang, Zongqing Lu.
+ - **Efficient Meta Reinforcement Learning for Preference-based Fast Adaptation.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/63b2b056f48653b7cff0d8d233c96a4d-Abstract-Conference.html)]
+   - Zhizhou Ren, Anji Liu, Yitao Liang, Jian Peng, Jianzhu Ma.
+ - **PAC: Assisted Value Factorization with Counterfactual Predictions in Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/65338cfb603d4871a2c38e53a3e039c9-Abstract-Conference.html)]
+   - Hanhan Zhou, Tian Lan, Vaneet Aggarwal.
+ - **Plan To Predict: Learning an Uncertainty-Foreseeing Model For Model-Based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/65beb73449888fabcf601b3a3ef4b3a7-Abstract-Conference.html)]
+   - Zifan Wu, Chao Yu, Chen Chen, Jianye Hao, Hankz Hankui Zhuo.
+ - **RAMBO-RL: Robust Adversarial Model-Based Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/6691c5e4a199b72dffd9c90acb63bcd6-Abstract-Conference.html)]
+   - Marc Rigter, Bruno Lacerda, Nick Hawes.
+ - **Inherently Explainable Reinforcement Learning in Natural Language.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/672e44a114a41d5f34b97459877c083d-Abstract-Conference.html)]
+   - Xiangyu Peng, Mark O. Riedl, Prithviraj Ammanabrolu.
+ - **On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/67496dfa96afddab795530cc7c69b57a-Abstract-Conference.html)]
+   - Tomasz Korbak, Hady Elsahar, Germán Kruszewski, Marc Dymetman.
+ - **Multi-Agent Reinforcement Learning is a Sequence Modeling Problem.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/69413f87e5a34897cd010ca698097d0a-Abstract-Conference.html)]
+   - Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang.
+ - **When to Ask for Help: Proactive Interventions in Autonomous Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/6bf82cc56a5fa0287c438baa8be65a70-Abstract-Conference.html)]
+   - Annie Xie, Fahim Tajwar, Archit Sharma, Chelsea Finn.
+ - **Reinforcement Learning with Neural Radiance Fields.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/6c294f059e3d77d58dbb8fe48f21fe00-Abstract-Conference.html)]
+   - Danny Driess, Ingmar Schubert, Pete Florence, Yunzhu Li, Marc Toussaint.
+ - **Sample-Efficient Reinforcement Learning of Partially Observable Markov Games.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/743459dae9b2c5d2904e5432d5298128-Abstract-Conference.html)]
+   - Qinghua Liu, Csaba Szepesvári, Chi Jin.
+ - **DeepFoids: Adaptive Bio-Inspired Fish Simulation with Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/74fa9e6bc36aa567fe7cf002b733a30d-Abstract-Conference.html)]
+   - Yuko Ishiwaka, Xiao S. Zeng, Shun Ogawa, Donovan Westwater, Tadayuki Tone, Masaki Nakada.
+ - **Influencing Long-Term Behavior in Multiagent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7749f9c0d5ff109231be21e910a3ced2-Abstract-Conference.html)]
+   - Dong-Ki Kim, Matthew Riemer, Miao Liu, Jakob N. Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan P. How.
+ - **Uncertainty Estimation Using Riemannian Model Dynamics for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/78e36c70d5051e9e271b00289624d709-Abstract-Conference.html)]
+   - Guy Tennenholtz, Shie Mannor.
+ - **Low-Rank Modular Reinforcement Learning via Muscle Synergy.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7da6005a8d6942e8b328357da2872aed-Abstract-Conference.html)]
+   - Heng Dong, Tonghan Wang, Jiayuan Liu, Chongjie Zhang.
+ - **GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7dd309df03d37643b96f5048b44da798-Abstract-Conference.html)]
+   - Yushi Cao, Zhiming Li, Tianpei Yang, Hao Zhang, Yan Zheng, Yi Li, Jianye Hao, Yang Liu.
+ - **Faster Deep Reinforcement Learning with Slower Online Network.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7dfa77fcef807c9a078b58fd619ad897-Abstract-Conference.html)]
+   - Kavosh Asadi, Rasool Fakoor, Omer Gottesman, Taesup Kim, Michael L. Littman, Alexander J. Smola.
+ - **Learn to Match with No Regret: Reinforcement Learning in Markov Matching Markets.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7e0af0d1bc0ec2a90fc294be2e00447e-Abstract-Conference.html)]
+   - Yifei Min, Tianhao Wang, Ruitu Xu, Zhaoran Wang, Michael I. Jordan, Zhuoran Yang.
+ - **Causality-driven Hierarchical Structure Discovery for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7e9fbd01b3084956dd8a070c7bf30bad-Abstract-Conference.html)]
+   - Shaohui Peng, Xing Hu, Rui Zhang, Ke Tang, Jiaming Guo, Qi Yi, Ruizhi Chen, Xishan Zhang, Zidong Du, Ling Li, Qi Guo, Yunji Chen.
+ - **Large-Scale Retrieval for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7eca17ef54789b0663cab421f2e9dbf5-Abstract-Conference.html)]
+   - Peter C. Humphreys, Arthur Guez, Olivier Tieleman, Laurent Sifre, Theophane Weber, Timothy P. Lillicrap.
+ - **Uncertainty-Aware Reinforcement Learning for Risk-Sensitive Player Evaluation in Sports Game.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/7f6e51d8298aa01b084b700ab91aff94-Abstract-Conference.html)]
+   - Guiliang Liu, Yudong Luo, Oliver Schulte, Pascal Poupart.
+ - **Spectrum Random Masking for Generalization in Image-based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html)]
+   - Yangru Huang, Peixi Peng, Yifan Zhao, Guangyao Chen, Yonghong Tian.
+ - **SPD: Synergy Pattern Diversifying Oriented Unsupervised Multi-agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/825341ab91db01bf063add41ac022702-Abstract-Conference.html)]
+   - Yuhang Jiang, Jianzhun Shao, Shuncheng He, Hongchang Zhang, Xiangyang Ji.
+ - **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8636419dea1aa9fbd25fc4248e702da4-Abstract-Conference.html)]
+   - Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, Steven Chu-Hong Hoi.
+ - **PaCo: Parameter-Compositional Multi-task Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/86b8ad667206fb9a52ae575fbf1cd6be-Abstract-Conference.html)]
+   - Lingfeng Sun, Haichao Zhang, Wei Xu, Masayoshi Tomizuka.
+ - **Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8be9c134bb193d8bd3827d4df8488228-Abstract-Conference.html)]
+   - Runze Liu, Fengshuo Bai, Yali Du, Yaodong Yang.
+ - **EnvPool: A Highly Parallel Reinforcement Learning Environment Execution Engine.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8caaf08e49ddbad6694fae067442ee21-Abstract-Datasets_and_Benchmarks.html)]
+   - Jiayi Weng, Min Lin, Shengyi Huang, Bo Liu, Denys Makoviichuk, Viktor Makoviychuk, Zichen Liu, Yufan Song, Ting Luo, Yukun Jiang, Zhongwen Xu, Shuicheng Yan.
+ - **Efficient Adversarial Training without Attacking: Worst-Case-Aware Robust Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/8d6b1d775014eff18256abeb207202ad-Abstract-Conference.html)]
+   - Yongyuan Liang, Yanchao Sun, Ruijie Zheng, Furong Huang.
+ - **When to Update Your Model: Constrained Model-based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/927eae0f3d1c89cc39398022f436c472-Abstract-Conference.html)]
+   - Tianying Ji, Yu Luo, Fuchun Sun, Mingxuan Jing, Fengxiang He, Wenbing Huang.
+ - **RORL: Robust Offline Reinforcement Learning via Conservative Smoothing.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/96bbdd0ed2a9e7cd2fb7caf2fae15f3d-Abstract-Conference.html)]
+   - Rui Yang, Chenjia Bai, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han.
+ - **The Impact of Task Underspecification in Evaluating Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/96ca792fddef7c1e3366c405022463cb-Abstract-Conference.html)]
+   - Vindula Jayawardana, Catherine Tang, Sirui Li, Dajiang Suo, Cathy Wu.
+ - **Model-based Safe Deep Reinforcement Learning via a Constrained Proximal Policy Optimization Algorithm.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/9a8eb202c060b7d81f5889631cbcd47e-Abstract-Conference.html)]
+   - Ashish Kumar Jayant, Shalabh Bhatnagar.
+ - **Towards Trustworthy Automatic Diagnosis Systems by Emulating Doctors' Reasoning with Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/9b6c8c4a5aeb6a37c9efa963e30993d9-Abstract-Conference.html)]
+   - Arsène Fansi Tchango, Rishab Goel, Julien Martel, Zhi Wen, Gaétan Marceau-Caron, Joumana Ghosn.
+ - **Near-Optimal Regret Bounds for Multi-batch Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/9bcd1fa0c05e5f25ba7a1261f1852e82-Abstract-Conference.html)]
+   - Zihan Zhang, Yuhang Jiang, Yuan Zhou, Xiangyang Ji.
+ - **NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/9cd828eb8dc81a84fb6bf89a94263e1b-Abstract-Datasets_and_Benchmarks.html)]
+   - Rongjun Qin, Xingyuan Zhang, Songyi Gao, Xiong-Hui Chen, Zewen Li, Weinan Zhang, Yang Yu.
+ - **Improving Zero-Shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/9fbdfded5c4d2969d889efc72f85c644-Abstract-Conference.html)]
+   - Bogdan Mazoure, Ilya Kostrikov, Ofir Nachum, Jonathan Tompson.
+ - **Mask-based Latent Reconstruction for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a0709efe5139939ab69902884ecad9c1-Abstract-Conference.html)]
+   - Tao Yu, Zhizheng Zhang, Cuiling Lan, Yan Lu, Zhibo Chen.
+ - **Conservative Dual Policy Optimization for Efficient Model-Based Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a3769fddee1b20552d2490c4ff18b136-Abstract-Conference.html)]
+   - Shenao Zhang.
+ - **Distributionally Adaptive Meta Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a60c43ba078b723d3d517d28c50ded4c-Abstract-Conference.html)]
+   - Anurag Ajay, Abhishek Gupta, Dibya Ghosh, Sergey Levine, Pulkit Agrawal.
+ - **TTOpt: A Maximum Volume Quantized Tensor Train-based Optimization and its Application to Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a730abbcd6cf4a371ca9545db5922442-Abstract-Conference.html)]
+   - Konstantin Sozykin, Andrei Chertkov, Roman Schutski, Anh-Huy Phan, Andrzej S. Cichocki, Ivan V. Oseledets.
+ - **A Mixture Of Surprises for Unsupervised Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a7667ee5d545a43d2f0fda98863c260e-Abstract-Conference.html)]
+   - Andrew Zhao, Matthieu Gaetan Lin, Yangguang Li, Yong-Jin Liu, Gao Huang.
+ - **Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/a96368eb38bce0956a1132154d70d72d-Abstract-Conference.html)]
+   - Wenhao Ding, Haohong Lin, Bo Li, Ding Zhao.
+ - **ProtoX: Explaining a Reinforcement Learning Agent via Prototyping.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ae5bf4f35236240c9460e761c60fa53d-Abstract-Conference.html)]
+   - Ronilo J. Ragodos, Tong Wang, Qihang Lin, Xun Zhou.
+ - **DOMINO: Decomposed Mutual Information Optimization for Generalized Context in Meta-Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b0b1cfc8ede53f452cabf8b9cf4eef76-Abstract-Conference.html)]
+   - Yao Mu, Yuzheng Zhuang, Fei Ni, Bin Wang, Jianyu Chen, Jianye Hao, Ping Luo.
+ - **MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b2a1c152f14a4b842a9ddb3bd84c62a1-Abstract-Datasets_and_Benchmarks.html)]
+   - Xuehai Pan, Mickel Liu, Fangwei Zhong, Yaodong Yang, Song-Chun Zhu, Yizhou Wang.
+ - **Receding Horizon Inverse Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b2b781badeeb49896c4b324c466ec442-Abstract-Conference.html)]
+   - Yiqing Xu, Wei Gao, David Hsu.
+ - **Oracle Inequalities for Model Selection in Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b51693c2ba5b5ddf67429966576fb962-Abstract-Conference.html)]
+   - Jonathan N. Lee, George Tucker, Ofir Nachum, Bo Dai, Emma Brunskill.
+ - **Exponential Family Model-Based Reinforcement Learning via Score Matching.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b693a240cf1009bff9fa4422141c9392-Abstract-Conference.html)]
+   - Gene Li, Junbo Li, Anmol Kabra, Nati Srebro, Zhaoran Wang, Zhuoran Yang.
+ - **Regret Bounds for Information-Directed Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/b733cdd80ed2ae7e3156d8c33108c5d5-Abstract-Conference.html)]
+   - Botao Hao, Tor Lattimore.
+ - **Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ba1c5356d9164bb64c446a4b690226b0-Abstract-Conference.html)]
+   - Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron C. Courville, Marc G. Bellemare.
+ - **Dynamic Inverse Reinforcement Learning for Characterizing Animal Behavior.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/bf215fa7fe70a38c5e967e59c44a99d0-Abstract-Conference.html)]
+   - Zoe Ashwood, Aditi Jha, Jonathan W. Pillow.
+ - **Robust Imitation via Mirror Descent Inverse Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html)]
+   - Dong-Sig Han, Hyunseo Kim, Hyundo Lee, Je-Hwan Ryu, Byoung-Tak Zhang.
+ - **The Nature of Temporal Difference Errors in Multi-step Distributional Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c32de883c5fe94d33a20a717fad53971-Abstract-Conference.html)]
+   - Yunhao Tang, Rémi Munos, Mark Rowland, Bernardo Ávila Pires, Will Dabney, Marc G. Bellemare.
+ - **On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c5eddf0069fe150ac2c768e2969e38d1-Abstract-Conference.html)]
+   - Shiro Takagi.
+ - **Look where you look! Saliency-guided Q-networks for generalization in visual Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c5ee2a08fbe743b171b0b4b2bdfd6f86-Abstract-Conference.html)]
+   - David Bertoin, Adil Zouitine, Mehdi Zouitine, Emmanuel Rachelson.
+ - **Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c75abb33341363ee874a71f81dc45a3a-Abstract-Conference.html)]
+   - Xiang Li, Jinghuan Shang, Srijan Das, Michael S. Ryoo.
+ - **Distributional Reinforcement Learning for Risk-Sensitive Policies.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c88a2bd0e793550d0e885aa6e31ca277-Abstract-Conference.html)]
+   - Shiau Hong Lim, Ilyas Malik.
+ - **A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/c8f9db5b83fac60ca3c6d6d06a9adcd6-Abstract-Conference.html)]
+   - Bo Liu, Xidong Feng, Jie Ren, Luo Mai, Rui Zhu, Haifeng Zhang, Jun Wang, Yaodong Yang.
+ - **Supported Policy Optimization for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/caa934a507a952698d54efb24845fc4b-Abstract-Conference.html)]
+   - Jialong Wu, Haixu Wu, Zihan Qiu, Jianmin Wang, Mingsheng Long.
+ - **Provable Benefit of Multitask Representation Learning in Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/cde328b7bf6358f5ebb91fe9c539745e-Abstract-Conference.html)]
+   - Yuan Cheng, Songtao Feng, Jing Yang, Hong Zhang, Yingbin Liang.
+ - **Modeling Human Exploration Through Resource-Rational Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/cde542f47c67907e170a1e1a7b32f6ad-Abstract-Conference.html)]
+   - Marcel Binz, Eric Schulz.
+ - **Factored Adaptation for Non-Stationary Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/cf4356f994917177213c55ff438ddf71-Abstract-Conference.html)]
+   - Fan Feng, Biwei Huang, Kun Zhang, Sara Magliacane.
+ - **Robust Reinforcement Learning using Offline Data.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d01bda31bbcd780774ff15b534e03c40-Abstract-Conference.html)]
+   - Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.
+ - **Model-based Lifelong Reinforcement Learning with Bayesian Exploration.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d0cf89927acd9136d27ebf08f9e8a888-Abstract-Conference.html)]
+   - Haotian Fu, Shangqun Yu, Michael Littman, George Konidaris.
+ - **Rethinking Individual Global Max in Cooperative Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d112fdd31c830900d1f2e4ccebffb54f-Abstract-Conference.html)]
+   - Yitian Hong, Yaochu Jin, Yang Tang.
+ - **Efficient Risk-Averse Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d2511dfb731fa336739782ba825cd98c-Abstract-Conference.html)]
+   - Ido Greenberg, Yinlam Chow, Mohammad Ghavamzadeh, Shie Mannor.
+ - **VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d4cc7a2d0d70736e29a3b48c3729bc06-Abstract-Conference.html)]
+   - Che Wang, Xufang Luo, Keith W. Ross, Dongsheng Li.
+ - **Efficient Scheduling of Data Augmentation for Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d74d002a9154b4cc433a234feb27c5f4-Abstract-Conference.html)]
+   - Byungchan Ko, Jungseul Ok.
+ - **Distributed Inverse Constrained Reinforcement Learning for Multi-agent Systems.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html)]
+   - Shicheng Liu, Minghui Zhu.
+ - **Universally Expressive Communication in Multi-Agent Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/d8a19c815a8bef25e6094e87f963d28e-Abstract-Conference.html)]
+   - Matthew Morris, Thomas D. Barrett, Arnu Pretorius.
+ - **A Boosting Approach to Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/daf8364f0715a41a469c677c0adc4754-Abstract-Conference.html)]
+   - Nataly Brukhim, Elad Hazan, Karan Singh.
+ - **Near-Optimal Goal-Oriented Reinforcement Learning in Non-Stationary Environments.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html)]
+   - Liyu Chen, Haipeng Luo.
+ - **Explainable Reinforcement Learning via Model Transforms.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/dbef234be68d8b170240511639610fd1-Abstract-Conference.html)]
+   - Mira Finkelstein, Nitsan Levy Schlot, Lucy Liu, Yoav Kolumbus, David C. Parkes, Jeffrey S. Rosenschein, Sarah Keren.
+ - **Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/dda7f9378a210c25e470e19304cce85d-Abstract-Conference.html)]
+   - Shengpu Tang, Maggie Makar, Michael W. Sjoding, Finale Doshi-Velez, Jenna Wiens.
+ - **Unsupervised Reinforcement Learning with Contrastive Intrinsic Control.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/debf482a7dbdc401f9052dbe15702837-Abstract-Conference.html)]
+   - Michael Laskin, Hao Liu, Xue Bin Peng, Denis Yarats, Aravind Rajeswaran, Pieter Abbeel.
+ - **Bootstrapped Transformer for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e0ccda3cb17b084a6f43c62cfac4784b-Abstract-Conference.html)]
+   - Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li.
+ - **Rethinking Value Function Learning for Generalization in Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e19ab2dde2e60cf68d1ded18c38938f4-Abstract-Conference.html)]
+   - Seungyong Moon, JunYeong Lee, Hyun Oh Song.
+ - **Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e1cf57f1e104c6c05e31894c15a65e99-Abstract-Conference.html)]
+   - Yaodong Yang, Guangyong Chen, Weixun Wang, Xiaotian Hao, Jianye Hao, Pheng-Ann Heng.
+ - **Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e2ef0cae667dbe9bfdbcaed1bd91807b-Abstract-Conference.html)]
+   - Henger Li, Xiaolin Sun, Zizhan Zheng.
+ - **Recursive Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e6f8759254d86ea9c197d30b92b313ca-Abstract-Conference.html)]
+   - Ernst Moritz Hahn, Mateo Perez, Sven Schewe, Fabio Somenzi, Ashutosh Trivedi, Dominik Wojtczak.
+ - **Contrastive Learning as Goal-Conditioned Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e7663e974c4ee7a2b475a4775201ce1f-Abstract-Conference.html)]
+   - Benjamin Eysenbach, Tianjun Zhang, Sergey Levine, Ruslan Salakhutdinov.
+ - **Reinforcement Learning with a Terminator.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/e83b86156555ab9692743f9f8f67adf1-Abstract-Conference.html)]
+   - Guy Tennenholtz, Nadav Merlis, Lior Shani, Shie Mannor, Uri Shalit, Gal Chechik, Assaf Hallak, Gal Dalal.
+ - **Reinforcement Learning with Logarithmic Regret and Policy Switches.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ea318cbc405c9803925e188e5d6836c6-Abstract-Conference.html)]
+   - Grigoris Velegkas, Zhuoran Yang, Amin Karbasi.
+ - **Regret Bounds for Risk-Sensitive Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/eb4898d622e9a48b5f9713ea1fcff2bf-Abstract-Conference.html)]
+   - Osbert Bastani, Yecheng Jason Ma, Estelle Shen, Wanqiao Xu.
+ - **Computationally Efficient Horizon-Free Reinforcement Learning for Linear Mixture MDPs.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ebba182cb97864368fdb6ae00773a5e4-Abstract-Conference.html)]
+   - Dongruo Zhou, Quanquan Gu.
+ - **Object-Category Aware Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ec3d49763c653ad7c8d587f52220c129-Abstract-Conference.html)]
+   - Qi Yi, Rui Zhang, Shaohui Peng, Jiaming Guo, Xing Hu, Zidong Du, Xishan Zhang, Qi Guo, Yunji Chen.
+ - **When to Trust Your Simulator: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)]
+   - Haoyi Niu, Shubham Sharma, Yiwen Qiu, Ming Li, Guyue Zhou, Jianming Hu, Xianyuan Zhan.
+ - **Learning Representations via a Robust Behavioral Metric for Deep Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/eda9523faa5e7191aee1c2eaff669716-Abstract-Conference.html)]
+   - Jianda Chen, Sinno Jialin Pan.
+ - **LAPO: Latent-Variable Advantage-Weighted Policy Optimization for Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/efb2072a358cefb75886a315a6fcf880-Abstract-Conference.html)]
+   - Xi Chen, Ali Ghadirzadeh, Tianhe Yu, Jianhao Wang, Alex Yuan Gao, Wenzhe Li, Liang Bin, Chelsea Finn, Chongjie Zhang.
+ - **Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/f2dbede0879b9d04ceb30f1b8b476b27-Abstract-Conference.html)]
+   - Rujie Zhong, Duohan Zhang, Lukas Schäfer, Stefano V. Albrecht, Josiah Hanna.
+ - **Skills Regularized Task Decomposition for Multi-task Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/f376f5dff6f6ec6364aea7a46ab49574-Abstract-Conference.html)]
+   - Minjong Yoo, Sangwoo Cho, Honguk Woo.
+ - **ASPiRe: Adaptive Skill Priors for Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/fbd8e65962da06f83f3f28b52774ffd0-Abstract-Conference.html)]
+   - Mengda Xu, Manuela Veloso, Shuran Song.
+ - **DASCO: Dual-Generator Adversarial Support Constrained Offline Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)]
+   - Quan Vuong, Aviral Kumar, Sergey Levine, Yevgen Chebotar.
+
+
 ---
-
-
-
-
 
 
 
