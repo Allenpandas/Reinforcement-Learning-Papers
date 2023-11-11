@@ -1057,16 +1057,171 @@ If you use this toolbox  in your research, please cite this project.
  - **Monocular Reactive Collision Avoidance for MAV Teleoperation with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160427)]
    - Raffaele Brilli, Marco Legittimo, Francesco Crocetti, Mirko Leomanni, Mario Luca Fravolini, Gabriele Costante.
 
+## Conferences in 2022
 
-## 2022
+### 2022-AAAI
 
-- **[36th AAAI 2022]** Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022, Virtual Event, February 22 - March 1, 2022. [[Accepted Papers](./2022/2022-AAAI)]
-- **[21st AAMAS 2022]** 21st International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2022, Auckland, New Zealand, May 9-13, 2022. [[Accepted Papers]](./2022/2022-AAMAS)
-- **[10th ICLR 2022]** The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event, April 25-29, 2022. [[Accepted Papers]](./2022/2022-ICLR)
-- **[39th ICML 2022]** International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA. [[Accepted Papers](./2022/2022-ICML)]
-- **[ICRA 2022]** 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022. [[Accepted Papers]](./2022/2022-ICRA)
-- **[31st IJCAI 2022]** Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022. [[Accepted Papers]](./2022/2022-IJCAI)
-- **[36th NIPS 2022]** Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 - December 9, 2022. [[Accepted Papers]](./2022/2022-NIPS)
+> Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022, Virtual Event, February 22 - March 1, 2022.
+
+**Accepted Papers：**
+
+
+
+---
+
+### 2022-AAMAS
+
+> 21st International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2022, Auckland, New Zealand, May 9-13, 2022.
+
+**Accepted Papers：**
+
+
+
+---
+
+### 2022-IJCAI
+
+> Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022.
+
+**Accepted Papers：**
+
+---
+
+### 2022-ICLR
+
+> The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event, April 25-29, 2022.
+
+**Accepted Papers：**
+
+
+
+### 2022-ICML
+
+> International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA.
+
+**Accepted Papers：**
+
+---
+
+
+
+
+
+### 2022-ICRA
+
+> 2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia, PA, USA, May 23-27, 2022.
+
+**Accepted Papers：**
+
+ - **Nearest-Neighbor-based Collision Avoidance for Quadrotors via Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812221)]
+   - Ramzi Ourari, Kai Cui, Ahmed Elshamanhory, Heinz Koeppl.
+ - **Learning Multi-Task Transferable Rewards via Variational Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811697)]
+   - Se-Wook Yoo, Seung-Woo Seo.
+ - **OPIRL: Sample Efficient Off-Policy Inverse Reinforcement Learning via Distribution Matching.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811660)]
+   - Hana Hoshino, Kei Ota, Asako Kanezaki, Rio Yokota.
+ - **AMI: Adaptive Motion Imitation Algorithm Based on Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812121)]
+   - Nazita Taghavi, Moath H. A. Alqatamin, Dan O. Popa.
+ - **Decentralized Ride-sharing of Shared Autonomous Vehicles Using Graph Neural Network-Based Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811596)]
+   - Boqi Li, Nejib Ammar, Prashant Tiwari, Huei Peng.
+ - **Unified Data Collection for Visual-Inertial Calibration via Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811629)]
+   - Yunke Ao, Le Chen, Florian Tschopp, Michel Breyer, Roland Siegwart, Andrei Cramariuc.
+ - **Relative Distributed Formation and Obstacle Avoidance with Multi-agent Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812263)]
+   - Yuzi Yan, Xiaoxiang Li, Xinyou Qiu, Jiantao Qiu, Jian Wang, Yu Wang, Yuan Shen.
+ - **Deep Reinforcement Learning for Next-Best-View Planning in Agricultural Applications.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811800)]
+   - Xiangyu Zeng, Tobias Zaenker, Maren Bennewitz.
+ - **Real-Robot Deep Reinforcement Learning: Improving Trajectory Tracking of Flexible-Joint Manipulator with Reference Correction.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812023)]
+   - Dmytro Pavlichenko, Sven Behnke.
+ - **Discovering Synergies for Robot Manipulation with Multi-Task Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812170)]
+   - Zhanpeng He, Matei T. Ciocarlie.
+ - **Personalized Car Following for Autonomous Driving with Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812446)]
+   - Zhouqiao Zhao, Ziran Wang, Kyungtae Han, Rohit Gupta, Prashant Tiwari, Guoyuan Wu, Matthew J. Barth.
+ - **Seeking Visual Discomfort: Curiosity-driven Representations for Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811663)]
+   - Elie Aljalbout, Maximilian Ulmer, Rudolph Triebel.
+ - **Intrinsically Motivated Self-supervised Learning in Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812213)]
+   - Yue Zhao, Chenzhuang Du, Hang Zhao, Tiejun Li.
+ - **Offline Learning of Counterfactual Predictions for Real-World Robotic Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811963)]
+   - Jun Jin, Daniel Graves, Cameron Haigh, Jun Luo, Martin Jägersand.
+ - **Exploiting Abstract Symmetries in Reinforcement Learning for Complex Environments.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811652)]
+   - Kashish Gupta, Homayoun Najjaran.
+ - **Adaptive Informative Path Planning Using Deep Reinforcement Learning for UAV-based Active Sensing.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812025)]
+   - Julius Rückin, Liren Jin, Marija Popovic.
+ - **Learning to Rock-and-Walk: Dynamic, Non-Prehensile, and Underactuated Object Locomotion Through Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811554)]
+   - Abdullah Nazir, Xu Pu, Juan Rojas, Jungwon Seo.
+ - **Learning Crowd-Aware Robot Navigation from Challenging Environments via Distributed Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812011)]
+   - Sango Matsuzaki, Yuji Hasegawa.
+ - **ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812321)]
+   - Chuangchuang Sun, Dong-Ki Kim, Jonathan P. How.
+ - **Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812285)]
+   - Sheng Li, Yutai Zhou, Ross E. Allen, Mykel J. Kochenderfer.
+ - **Enhancing Deep Reinforcement Learning Approaches for Multi-Robot Navigation via Single-Robot Evolutionary Policy Search.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812341)]
+   - Enrico Marchesini, Alessandro Farinelli.
+ - **Barrier Function-based Safe Reinforcement Learning for Formation Control of Mobile Robots.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811604)]
+   - Xinglong Zhang, Yaoqian Peng, Wei Pan, Xin Xu, Haibin Xie.
+ - **Asynchronous Reinforcement Learning for Real-Time Control of Physical Robots.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811771)]
+   - Yufeng Yuan, A. Rupam Mahmood.
+ - **From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811858)]
+   - Ganghun Lee, Minji Kim, Min Su Lee, Byoung-Tak Zhang.
+ - **Robust Reinforcement Learning via Genetic Curriculum.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812420)]
+   - Yeeho Song, Jeff Schneider.
+ - **Improving Safety in Deep Reinforcement Learning using Unsupervised Action Planning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812181)]
+   - Hao-Lun Hsu, Qiuhua Huang, Sehoon Ha.
+ - **A Deep Reinforcement Learning Environment for Particle Robot Navigation and Object Manipulation.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811965)]
+   - Jeremy Shen, Erdong Xiao, Yuchen Liu, Chen Feng.
+ - **Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811698)]
+   - Jakob Thumm, Matthias Althoff.
+ - **Reinforcement Learning for Picking Cluttered General Objects with Dense Object Descriptors.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811911)]
+   - Hoang-Giang Cao, Weihao Zeng, I-Chen Wu.
+ - **Offline Meta-Reinforcement Learning for Industrial Insertion.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812312)]
+   - Tony Z. Zhao, Jianlan Luo, Oleg Sushkov, Rugile Pevceviciute, Nicolas Heess, Jon Scholz, Stefan Schaal, Sergey Levine.
+ - **HR-Planner: A Hierarchical Highway Tactical Planner based on Residual Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812400)]
+   - Haoran Wu, Yueyuan Li, Hanyang Zhuang, Chunxiang Wang, Ming Yang.
+ - **Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812140)]
+   - Soroush Nasiriany, Huihan Liu, Yuke Zhu.
+ - **RAPID-RL: A Reconfigurable Architecture with Preemptive-Exits for Efficient Deep-Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812320)]
+   - Adarsh Kumar Kosta, Malik Aqeel Anwar, Priyadarshini Panda, Arijit Raychowdhury, Kaushik Roy.
+ - **ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812442)]
+   - Sean Chen, Jensen Gao, Siddharth Reddy, Glen Berseth, Anca D. Dragan, Sergey Levine.
+ - **Graph-based Cluttered Scene Generation and Interactive Exploration using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811874)]
+   - K. Niranjan Kumar, Irfan Essa, Sehoon Ha.
+ - **Promoting Quality and Diversity in Population-based Reinforcement Learning via Hierarchical Trajectory Space Exploration.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811888)]
+   - Jiayu Miao, Tianze Zhou, Kun Shao, Ming Zhou, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang.
+ - **Deep Drifting: Autonomous Drifting of Arbitrary Trajectories using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812249)]
+   - Fabian Domberg, Carlos Castelar Wembers, Hiren Patel, Georg Schildbach.
+ - **Confidence-Based Robot Navigation Under Sensor Occlusion with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812090)]
+   - Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon.
+ - **Visuotactile-RL: Learning Multimodal Manipulation Policies with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812019)]
+   - Johanna Hansen, Francois Robert Hogan, Dmitriy Rivkin, David Meger, Michael Jenkin, Gregory Dudek.
+ - **Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9811626)]
+   - Songyang Han, He Wang, Sanbao Su, Yuanyuan Shi, Fei Miao.
+ - **Multi-Target Encirclement with Collision Avoidance via Deep Reinforcement Learning using Relational Graphs.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812151)]
+   - Tianle Zhang, Zhen Liu, Zhiqiang Pu, Jianqiang Yi.
+ - **Decentralized Global Connectivity Maintenance for Multi-Robot Navigation: A Reinforcement Learning Approach.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812163)]
+   - Minghao Li, Yingrui Jie, Yang Kong, Hui Cheng.
+ - **Multi-robot Cooperative Pursuit via Potential Field-Enhanced Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812083)]
+   - Zheng Zhang, Xiaohan Wang, Qingrui Zhang, Tianjiang Hu.
+ - **TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812238)]
+   - Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Utsav Patel, Dinesh Manocha.
+ - **Reinforcement Learning as a Method for Tuning CPG Controllers for Underwater Multi-Fin Propulsion.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812128)]
+   - Anthony Drago, Gabe N. Carryon, James L. Tangorra.
+
+---
+
+
+### 2022-NeurIPS
+
+> Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 - December 9, 2022.
+
+**Accepted Papers：**
+
+---
+
+
+
+
+
+
+
+
 
 ## 2021
 
