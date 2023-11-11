@@ -1072,6 +1072,140 @@ If you use this toolbox  in your research, please cite this project.
 
 **Accepted Papers：**
 
+ - **Backprop-Free Reinforcement Learning with Active Neural Generative Coding.** [[pdf](https://doi.org/10.1609/aaai.v36i1.19876)]
+   - Alexander G. Ororbia II, Ankur Arjun Mali.
+ - **Multi-Sacle Dynamic Coding Improved Spiking Actor Network for Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i1.19879)]
+   - Duzhen Zhang, Tielin Zhang, Shuncheng Jia, Bo Xu.
+ - **CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving.** [[pdf](https://doi.org/10.1609/aaai.v36i3.20259)]
+   - Yinuo Zhao, Kun Wu, Zhiyuan Xu, Zhengping Che, Qi Lu, Jian Tang, Chi Harold Liu.
+ - **Achieving Zero Constraint Violation for Constrained Reinforcement Learning via Primal-Dual Approach.** [[pdf](https://doi.org/10.1609/aaai.v36i4.20281)]
+   - Qinbo Bai, Amrit Singh Bedi, Mridul Agarwal, Alec Koppel, Vaneet Aggarwal.
+ - **OAM: An Option-Action Reinforcement Learning Framework for Universal Multi-Intersection Control.** [[pdf](https://doi.org/10.1609/aaai.v36i4.20378)]
+   - Enming Liang, Zicheng Su, Chilin Fang, Renxin Zhong.
+ - **EMVLight: A Decentralized Reinforcement Learning Framework for Efficient Passage of Emergency Vehicles.** [[pdf](https://doi.org/10.1609/aaai.v36i4.20383)]
+   - Haoran Su, Yaofeng Desmond Zhong, Biswadip Dey, Amit Chakraborty.
+ - **DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i4.20393)]
+   - Xianyuan Zhan, Haoran Xu, Yue Zhang, Xiangyu Zhu, Honglei Yin, Yu Zheng.
+ - **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i4.20394)]
+   - Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing.
+ - **Conservative and Adaptive Penalty for Model-Based Safe Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i5.20478)]
+   - Yecheng Jason Ma, Andrew Shen, Osbert Bastani, Dinesh Jayaraman.
+ - **Robust Adversarial Reinforcement Learning with Dissipation Inequation Constraint.** [[pdf](https://doi.org/10.1609/aaai.v36i5.20481)]
+   - Peng Zhai, Jie Luo, Zhiyan Dong, Lihua Zhang, Shunli Wang, Dingkang Yang.
+ - **Enforcement Heuristics for Argumentation with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i5.20497)]
+   - Dennis Craandijk, Floris Bex.
+ - **Programmatic Modeling and Generation of Real-Time Strategic Soccer Environments for Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20549)]
+   - Abdus Salam Azad, Edward Kim, Qiancheng Wu, Kimin Lee, Ion Stoica, Pieter Abbeel, Alberto L. Sangiovanni-Vincentelli, Sanjit A. Seshia.
+ - **Learning by Competition of Self-Interested Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20589)]
+   - Stephen Chung.
+ - **Reinforcement Learning with Stochastic Reward Machines.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20594)]
+   - Jan Corazza, Ivan Gavran, Daniel Neider.
+ - **Reinforcement Learning Based Dynamic Model Combination for Time Series Forecasting.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20618)]
+   - Yuwei Fu, Di Wu, Benoit Boulet.
+ - **Theoretical Guarantees of Fictitious Discount Algorithms for Episodic Reinforcement Learning and Global Convergence of Policy Gradient Methods.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20633)]
+   - Xin Guo, Anran Hu, Junzi Zhang.
+ - **Learning Action Translator for Meta Reinforcement Learning on Sparse-Reward Tasks.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20635)]
+   - Yijie Guo, Qiucheng Wu, Honglak Lee.
+ - **Wasserstein Unsupervised Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20645)]
+   - Shuncheng He, Yuhang Jiang, Hongchang Zhang, Jianzhun Shao, Xiangyang Ji.
+ - **Reinforcement Learning of Causal Variables Using Mediation Analysis.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20648)]
+   - Tue Herlau, Rasmus Larsen.
+ - **Globally Optimal Hierarchical Reinforcement Learning for Linearly-Solvable Markov Decision Processes.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20655)]
+   - Guillermo Infante, Anders Jonsson, Vicenç Gómez.
+ - **Creativity of AI: Automatic Symbolic Option Discovery for Facilitating Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i6.20663)]
+   - Mu Jin, Zhihao Ma, Kebing Jin, Hankz Hankui Zhuo, Chen Chen, Chao Yu.
+ - **Same State, Different Task: Continual Reinforcement Learning without Interference.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20674)]
+   - Samuel Kessler, Jack Parker-Holder, Philip J. Ball, Stefan Zohren, Stephen J. Roberts.
+ - **Introducing Symmetries to Black Box Meta Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20681)]
+   - Louis Kirsch, Sebastian Flennerhag, Hado van Hasselt, Abram L. Friesen, Junhyuk Oh, Yutian Chen.
+ - **Deep Reinforcement Learning Policies Learn Shared Adversarial Features across MDPs.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20684)]
+   - Ezgi Korkmaz.
+ - **Conjugated Discrete Distributions for Distributional Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20716)]
+   - Björn Lindenberg, Jonas Nordqvist, Karl-Olof Lindahl.
+ - **Learn Goal-Conditioned Policy with Intrinsic Motivation for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20721)]
+   - Jinxin Liu, Donglin Wang, Qiangxing Tian, Zhengyu Chen.
+ - **Fast and Data Efficient Reinforcement Learning from Pixels via Non-parametric Value Approximation.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20728)]
+   - Alexander Long, Alan Blair, Herke van Hoof.
+ - **Recursive Reasoning Graph for Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20733)]
+   - Xiaobai Ma, David Isele, Jayesh K. Gupta, Kikuo Fujimura, Mykel J. Kochenderfer.
+ - **Exploring Safer Behaviors for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20737)]
+   - Enrico Marchesini, Davide Corsi, Alessandro Farinelli.
+ - **Constraint Sampling Reinforcement Learning: Incorporating Expertise for Faster Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20753)]
+   - Tong Mu, Georgios Theocharous, David Arbour, Emma Brunskill.
+ - **Unsupervised Reinforcement Learning in Multiple Environments.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20754)]
+   - Mirco Mutti, Mattia Mancassola, Marcello Restelli.
+ - **Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20758)]
+   - Evgenii Nikishin, Romina Abachi, Rishabh Agarwal, Pierre-Luc Bacon.
+ - **Blockwise Sequential Model Learning for Partially Observable Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20764)]
+   - Giseung Park, Sungho Choi, Youngchul Sung.
+ - **Offline Reinforcement Learning as Anti-exploration.** [[pdf](https://doi.org/10.1609/aaai.v36i7.20783)]
+   - Shideh Rezaeifar, Robert Dadashi, Nino Vieillard, Léonard Hussenot, Olivier Bachem, Olivier Pietquin, Matthieu Geist.
+ - **Regularization Guarantees Generalization in Bayesian Reinforcement Learning through Algorithmic Stability.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20818)]
+   - Aviv Tamar, Daniel Soudry, Ev Zisselman.
+ - **Sample-Efficient Reinforcement Learning via Conservative Model-Based Actor-Critic.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20839)]
+   - Zhihai Wang, Jie Wang, Qi Zhou, Bin Li, Houqiang Li.
+ - **Controlling Underestimation Bias in Reinforcement Learning via Quasi-median Operation.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20840)]
+   - Wei Wei, Yujia Zhang, Jiye Liang, Lin Li, Yuze Li.
+ - **Structure Learning-Based Task Decomposition for Reinforcement Learning in Non-stationary Environments.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20844)]
+   - Honguk Woo, Gwangpyo Yoo, Minjong Yoo.
+ - **Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20847)]
+   - Keyu Wu, Min Wu, Zhenghua Chen, Yuecong Xu, Xiaoli Li.
+ - **Reinforcement Learning Augmented Asymptotically Optimal Index Policy for Finite-Horizon Restless Bandits.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20852)]
+   - Guojun Xiong, Jian Li, Rahul Singh.
+ - **Constraints Penalized Q-learning for Safe Offline Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20855)]
+   - Haoran Xu, Xianyuan Zhan, Xiangyu Zhu.
+ - **Q-Ball: Modeling Basketball Games Using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20861)]
+   - Chen Yanai, Adir Solomon, Gilad Katz, Bracha Shapira, Lior Rokach.
+ - **Natural Black-Box Adversarial Examples against Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20876)]
+   - Mengran Yu, Shiliang Sun.
+ - **SimSR: Simple Distance-Based State Representations for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20883)]
+   - Hongyu Zang, Xin Li, Mingzhong Wang.
+ - **State Deviation Correction for Offline Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20886)]
+   - Hongchang Zhang, Jianzhun Shao, Yuhang Jiang, Shuncheng He, Guanwen Zhang, Xiangyang Ji.
+ - **Multi-Agent Reinforcement Learning with General Utilities via Decentralized Shadow Reward Actor-Critic.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20887)]
+   - Junyu Zhang, Amrit Singh Bedi, Mengdi Wang, Alec Koppel.
+ - **A Multi-Agent Reinforcement Learning Approach for Efficient Client Selection in Federated Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20894)]
+   - Sai Qian Zhang, Jieyu Lin, Qi Zhang.
+ - **Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20897)]
+   - Yuheng Zhang, Hanghang Tong, Yinglong Xia, Yan Zhu, Yuejie Chi, Lei Ying.
+ - **Stackelberg Actor-Critic: Game-Theoretic Reinforcement Learning Algorithms.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20908)]
+   - Liyuan Zheng, Tanner Fiez, Zane Alumbaugh, Benjamin Chasnov, Lillian J. Ratliff.
+ - **Invariant Action Effect Model for Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20913)]
+   - Zheng-Mao Zhu, Shengyi Jiang, Yu-Ren Liu, Yang Yu, Kun Zhang.
+ - **Locality Matters: A Scalable Value Decomposition Approach for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i8.20915)]
+   - Roy Zohar, Shie Mannor, Guy Tennenholtz.
+ - **Concentration Network for Reinforcement Learning of Large-Scale Multi-Agent Systems.** [[pdf](https://doi.org/10.1609/aaai.v36i9.21165)]
+   - Qingxu Fu, Tenghai Qiu, Jianqiang Yi, Zhiqiang Pu, Shiguang Wu.
+ - **A Deeper Understanding of State-Based Critics in Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i9.21171)]
+   - Xueguang Lyu, Andrea Baisero, Yuchen Xiao, Christopher Amato.
+ - **Goal Recognition as Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i9.21198)]
+   - Leonardo Amado, Reuth Mirsky, Felipe Meneguzzi.
+ - **NICE: Robust Scheduling through Reinforcement Learning-Guided Integer Programming.** [[pdf](https://doi.org/10.1609/aaai.v36i9.21218)]
+   - Luke Kenworthy, Siddharth Nayak, Christopher Chin, Hamsa Balakrishnan.
+ - **MAPDP: Cooperative Multi-Agent Reinforcement Learning to Solve Pickup and Delivery Problems.** [[pdf](https://doi.org/10.1609/aaai.v36i9.21236)]
+   - Zefang Zong, Meng Zheng, Yong Li, Depeng Jin.
+ - **Eye of the Beholder: Improved Relation Generalization for Text-Based Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v36i10.21358)]
+   - Keerthiram Murugesan, Subhajit Chaudhury, Kartik Talamadupula.
+ - **Text-Based Interactive Recommendation via Offline Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i10.21424)]
+   - Ruiyi Zhang, Tong Yu, Yilin Shen, Hongxia Jin.
+ - **Multi-Agent Reinforcement Learning Controller to Maximize Energy Efficiency for Multi-Generator Industrial Wave Energy Converter.** [[pdf](https://doi.org/10.1609/aaai.v36i11.21473)]
+   - Soumyendu Sarkar, Vineet Gundecha, Alexander Shmakov, Sahand Ghorbanpour, Ashwin Ramesh Babu, Paolo Faraboschi, Mathieu Cocho, Alexandre Pichard, Jonathan Fievez.
+ - **Bayesian Model-Based Offline Reinforcement Learning for Product Allocation.** [[pdf](https://doi.org/10.1609/aaai.v36i11.21523)]
+   - Porter Jenkins, Hua Wei, J. Stockton Jenkins, Zhenhui Li.
+ - **Reinforcement Learning for Datacenter Congestion Control.** [[pdf](https://doi.org/10.1609/aaai.v36i11.21535)]
+   - Chen Tessler, Yuval Shpigelman, Gal Dalal, Amit Mandelbaum, Doron Haritan Kazakov, Benjamin Fuhrer, Gal Chechik, Shie Mannor.
+ - **Creating Interactive Crowds with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v36i11.21580)]
+   - Ariel Kwiatkowski.
+ - **Using Graph-Aware Reinforcement Learning to Identify Winning Strategies in Diplomacy Games (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21586)]
+   - Hansin Ahuja, Lynnette Hui Xian Ng, Kokil Jaidka.
+ - **Reinforcement Learning Explainability via Model Transforms (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21608)]
+   - Mira Finkelstein, Lucy Liu, Yoav Kolumbus, David C. Parkes, Jeffrey S. Rosenshein, Sarah Keren.
+ - **Using Reinforcement Learning for Operating Educational Campuses Safely during a Pandemic (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21649)]
+   - Elizabeth Akinyi Ondula, Bhaskar Krishnamachari.
+ - **Criticality-Based Advice in Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21665)]
+   - Yitzhak Spielberg, Amos Azaria.
+ - **VeNAS: Versatile Negotiating Agent Strategy via Deep Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21669)]
+   - Toki Takahashi, Ryota Higa, Katsuhide Fujita, Shinji Nakadai.
 
 
 ---
