@@ -47,6 +47,10 @@ If you use this toolbox  in your research, please cite this project.
 }
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Allenpandas/Awesome-Reinforcement-Learning-Papers&type=Date)](https://star-history.com/#Allenpandas/Awesome-Reinforcement-Learning-Papers&Date)
+
 ## Table of Contents
 
 - [1_Multi-Agent Reinforcement Learning (MARL)](#1_Multi-Agent-Reinforcement-Learning)
