@@ -172,9 +172,12 @@ If you use this toolbox  in your research, please cite this project.
    - Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu. *ICLR 2023*.
  - **Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=cddbeL1HWaD)]
    - Yat Long Lo, Christian Schröder de Witt, Samuel Sokota, Jakob Nicolaus Foerster, Shimon Whiteson. *ICLR 2023*.
+ - **Order Matters: Agent-by-agent Policy Optimization.** [[pdf](https://openreview.net/pdf?id=Q-neeWNVv1)]
+   - Xihuai Wang, Zheng Tian, Ziyu Wan, Ying Wen, Jun Wang, Weinan Zhang. *ICLR 2023*.
+
  - **Context-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/chen23an.html)]
    - Dingyang Chen, Qi Zhang. *ICML 2023*.
- -  **Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/ding23d.html)]
+ - **Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/ding23d.html)]
       - Ziluo Ding, Wanpeng Zhang, Junpeng Yue, Xiangjun Wang, Tiejun Huang, Zongqing Lu. *ICML 2023*.
  - **Oracles & Followers: Stackelberg Equilibria in Deep Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/gerstgrasser23a.html)]
    - Matthias Gerstgrasser, David C. Parkes. *ICML 2023*.
@@ -188,7 +191,7 @@ If you use this toolbox  in your research, please cite this project.
    - Yifei Min, Jiafan He, Tianhao Wang, Quanquan Gu. *ICML 2023*.
  - **Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation.** [[pdf](https://proceedings.mlr.press/v202/nayak23a.html)]
    - Siddharth Nayak, Kenneth Choi, Wenqi Ding, Sydney Dolan, Karthik Gopalakrishnan, Hamsa Balakrishnan. *ICML 2023*.
- -  **Attention-Based Recurrence for Multi-Agent Reinforcement Learning under Stochastic Partial Observability.** [[pdf](https://proceedings.mlr.press/v202/phan23a.html)]
+ - **Attention-Based Recurrence for Multi-Agent Reinforcement Learning under Stochastic Partial Observability.** [[pdf](https://proceedings.mlr.press/v202/phan23a.html)]
       - Thomy Phan, Fabian Ritz, Philipp Altmann, Maximilian Zorn, Jonas Nüßlein, Michael Kölle, Thomas Gabor, Claudia Linnhoff-Popien. *ICML 2023*.
  - **Complementary Attention for Multi-Agent Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/shao23b.html)]
    - Jianzhun Shao, Hongchang Zhang, Yun Qu, Chang Liu, Shuncheng He, Yuhang Jiang, Xiangyang Ji. *ICML 2023*.
@@ -204,7 +207,7 @@ If you use this toolbox  in your research, please cite this project.
    - Siyuan Chen, Meiling Wang, Yi Yang, Wenjie Song. *ICRA 2023*.
  - **Explainable Multi-Agent Reinforcement Learning for Temporal Queries.** [[pdf](https://doi.org/10.24963/ijcai.2023/7)]
    - Kayla Boggess, Sarit Kraus, Lu Feng. *IJCAI 2023*.
- -  **Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism.** [[pdf](https://doi.org/10.24963/ijcai.2023/15)]
+ - **Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism.** [[pdf](https://doi.org/10.24963/ijcai.2023/15)]
       - Xudong Guo, Daming Shi, Wenhui Fan. *IJCAI 2023*.
  - **Learning to Send Reinforcements: Coordinating Multi-Agent Dynamic Police Patrol Dispatching and Rescheduling via Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/18)]
    - Waldy Joe, Hoong Chuin Lau. *IJCAI 2023*.
