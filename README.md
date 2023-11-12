@@ -50,13 +50,14 @@ If you use this toolbox  in your research, please cite this project.
 
 ## Table of Contents
 
-- [Multi-Agent Reinforcement Learning (MARL)](#Multi-Agent-Reinforcement-Learning)
-- [Meta Reinforcement Learning](#Meta-Reinforcement-Learning)
-- [Hierarchical Reinforcement Learning](#Hierarchical-Reinforcement-Learning)
-- [Multi-Task Reinforcement Learning](#Multi-Task-Reinforcement-Learning)
-- [Offline Reinforcement Learning](#Offline-Reinforcement-Learning)
+- [1_Multi-Agent Reinforcement Learning (MARL)](#1_Multi-Agent-Reinforcement-Learning)
+- [2_Meta Reinforcement Learning](#2_Meta-Reinforcement-Learning)
+- [3_Hierarchical Reinforcement Learning](#3_Hierarchical-Reinforcement-Learning)
+- [4_Multi-Task Reinforcement Learning](#4_Multi-Task-Reinforcement-Learning)
+- [5_Offline Reinforcement Learning](#5_Offline-Reinforcement-Learning)
+- [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
 
-### Multi-Agent Reinforcement Learning
+### 1_Multi-Agent Reinforcement Learning
 
 - **Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i7.25973)]
    - Jiechuan Jiang, Zongqing Lu. *AAAI 2023*.
@@ -227,27 +228,102 @@ If you use this toolbox  in your research, please cite this project.
  - **DPMAC: Differentially Private Communication for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/516)]
    - Canzhe Zhao, Yanjie Ze, Jing Dong, Baoxiang Wang, Shuai Li. *IJCAI 2023*.
 
-### Meta Reinforcement Learning
+### 2_Meta Reinforcement Learning
 
- - **Quantum Multi-Agent Meta Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i9.26313)]
-   - Won Joon Yun, Jihong Park, Joongheon Kim. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
+- **Meta-Reinforcement Learning Based on Self-Supervised Task Representation Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i8.26210)]
+   - Mingyang Wang, Zhenshan Bing, Xiangtong Yao, Shuai Wang, Kai Huang, Hang Su, Chenguang Yang, Alois Knoll. *AAAI 2023*.
+- **Quantum Multi-Agent Meta Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i9.26313)]
+   - Won Joon Yun, Jihong Park, Joongheon Kim. *AAAI 2023*.
+- **A CMDP-within-online framework for Meta-Safe Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=mbxz9Cjehr)]
+   - Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, Ming Jin. *ICLR 2023*.
+-  **Distributional Meta-Gradient Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=LGkmUauBUL)]
+      - Haiyan Yin, Shuicheng Yan, Zhongwen Xu. *ICLR 2023*.
+- **Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/liu23af.html)]
+   - Evan Zheran Liu, Sahaana Suri, Tong Mu, Allan Zhou, Chelsea Finn. *ICML 2023*.
+- **Offline Meta Reinforcement Learning with In-Distribution Online Adaptation.** [[pdf](https://proceedings.mlr.press/v202/wang23au.html)]
+   - Jianhao Wang, Jin Zhang, Haozhe Jiang, Junyu Zhang, Liwei Wang, Chongjie Zhang. *ICML 2023*.
+- **Meta-Reinforcement Learning via Language Instructions.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160626)]
+   - Zhenshan Bing, Alexander W. Koch, Xiangtong Yao, Kai Huang, Alois Knoll. *ICRA 2023*.
+- **Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160764)]
+   - Zheng Wu, Yichen Xie, Wenzhao Lian, Changhao Wang, Yanjiang Guo, Jianyu Chen, Stefan Schaal, Masayoshi Tomizuka. *ICRA 2023*.
 
-### Hierarchical Reinforcement Learning
+### 3_Hierarchical Reinforcement Learning
 
-- **End-to-End Entity Linking with Hierarchical Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i4.25534)]
-  - Lihan Chen, Tinghui Zhu, Jingping Liu, Jiaqing Liang, Yanghua Xiao. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
+ - **HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism.** [[pdf](https://doi.org/10.1609/aaai.v37i10.26386)]
+   - Zhiwei Xu, Yunpeng Bai, Bin Zhang, Dapeng Li, Guoliang Fan. *AAAI 2023*.
+ - **Hierarchical Mean-Field Deep Reinforcement Learning for Large-Scale Multiagent Systems.** [[pdf](https://doi.org/10.1609/aaai.v37i10.26387)]
+   - Chao Yu. *AAAI 2023*.
+ - **Hierarchical Reinforcement Learning with Human-AI Collaborative Sub-Goals Optimization.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598917)]
+   - Haozhe Ma, Thanh Vinh Vo, Tze-Yun Leong. *AAMAS 2023*.
+ - **Hierarchical Reinforcement Learning for Ad Hoc Teaming.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598926)]
+   - Stéphane Aroca-Ouellette, Miguel Aroca-Ouellette, Upasana Biswas, Katharina Kann, Alessandro Roncone. *AAMAS 2023*.
+ - **Matching Options to Tasks using Option-Indexed Hierarchical Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599025)]
+   - Kushal Chauhan, Soumya Chatterjee, Akash Reddy, Aniruddha S, Balaraman Ravindran, Pradeep Shenoy. *AAMAS 2023*.
+ - **Hierarchical Reinforcement Learning with Attention Reward.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599084)]
+   - Sihong Luo, Jinghao Chen, Zheng Hu, Chunhong Zhang, Benhui Zhuang. *AAMAS 2023*.
+ - **Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs.** [[pdf](https://proceedings.mlr.press/v202/liu23p.html)]
+   - Guan-Ting Liu, En-Pei Hu, Pu-Jen Cheng, Hung-Yi Lee, Shao-Hua Sun. *ICML 2023*.
+ - **Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160371)]
+   - Kyowoon Lee, Seongun Kim, Jaesik Choi. *ICRA 2023*.
 
-### Multi-Task
+### 4_Multi-Task Rinforcement Learning
 
- - **PiCor: Multi-Task Deep Reinforcement Learning with Policy Correction.** [[pdf](https://doi.org/10.1609/aaai.v37i6.25825)]
-   - Fengshuo Bai, Hongming Zhang, Tianyang Tao, Zhiheng Wu, Yanna Wang, Bo Xu. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
+- **PiCor: Multi-Task Deep Reinforcement Learning with Policy Correction.** [[pdf](https://doi.org/10.1609/aaai.v37i6.25825)]
+   - Fengshuo Bai, Hongming Zhang, Tianyang Tao, Zhiheng Wu, Yanna Wang, Bo Xu. *AAAI 2023*.
+- **Prioritized Tasks Mining for Multi-Task Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598817)]
+   - Yang Yu, Qiyue Yin, Junge Zhang, Kaiqi Huang. *AAMAS 2023*.
+- **Investigating Multi-task Pretraining and Generalization in Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=sSt9fROSZRO)]
+   - Adrien Ali Taïga, Rishabh Agarwal, Jesse Farebrother, Aaron C. Courville, Marc G. Bellemare. *ICLR 2023*.
+- **Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161447)]
+   - Abhishek Gupta, Corey Lynch, Brandon Kinman, Garrett Peake, Sergey Levine, Karol Hausman. *ICRA 2023*.
 
-### Offline
+### 5_Offline Reinforcement Learning
 
 - **Offline Quantum Reinforcement Learning in a Conservative Manner.** [[pdf](https://doi.org/10.1609/aaai.v37i6.25872)]
   - Zhihao Cheng, Kaining Zhang, Li Shen, Dacheng Tao. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
  - **On the Sample Complexity of Vanilla Model-Based Offline Reinforcement Learning with Dependent Samples.** [[pdf](https://doi.org/10.1609/aaai.v37i7.25989)]
    - Mustafa O. Karabag, Ufuk Topcu. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
+
+### 6_Inverse Reinforcement Learning
+
+- **Misspecification in Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i12.26766)]
+   - Joar Skalse, Alessandro Abate. *AAAI 2023*.
+- **Multiagent Inverse Reinforcement Learning via Theory of Mind Reasoning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598703)]
+   - Haochen Wu, Pedro Sequeira, David V. Pynadath. *AAMAS 2023*.
+- **Adversarial Inverse Reinforcement Learning for Mean Field Games.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3598749)]
+   - Yang Chen, Libo Zhang, Jiamou Liu, Michael Witbrock. *AAMAS 2023*.
+- **LTL-Based Non-Markovian Inverse Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3545946.3599102)]
+   - Mohammad Afzal, Sankalp Gambhir, Ashutosh Gupta, S. Krishna, Ashutosh Trivedi, Alvaro Velasquez. *AAMAS 2023*.
+- **LS-IQ: Implicit Reward Regularization for Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=o3Q4m8jg4BR)]
+   - Firas Al-Hafez, Davide Tateo, Oleg Arenz, Guoping Zhao, Jan Peters. *ICLR 2023*.
+- **Causal Imitation Learning via Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=B-z41MBL_tH)]
+   - Kangrui Ruan, Junzhe Zhang, Xuan Di, Elias Bareinboim. *ICLR 2023*.
+- **Benchmarking Constraint Inference in Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=vINj_Hv9szL)]
+   - Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, Pascal Poupart. *ICLR 2023*.
+- **CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning.** [[pdf](https://openreview.net/pdf?id=5aT4ganOd98)]
+   - Sheng Yue, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, Junshan Zhang. *ICLR 2023*.
+- **Multi-task Hierarchical Adversarial Inverse Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/chen23x.html)]
+   - Jiayu Chen, Dipesh Tamboli, Tian Lan, Vaneet Aggarwal. *ICML 2023*.
+- **Towards Theoretical Understanding of Inverse Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/metelli23a.html)]
+   - Alberto Maria Metelli, Filippo Lazzati, Marcello Restelli. *ICML 2023*.
+- **Identifiability and Generalizability in Constrained Inverse Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/schlaginhaufen23a.html)]
+   - Andreas Schlaginhaufen, Maryam Kamgarpour. *ICML 2023*.
+- **Inverse Reinforcement Learning without Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v202/swamy23a.html)]
+   - Gokul Swamy, David Wu, Sanjiban Choudhury, Drew Bagnell, Zhiwei Steven Wu. *ICML 2023*.
+- **Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160687)]
+   - Omey M. Manyar, Zachary McNulty, Stefanos Nikolaidis, Satyandra K. Gupta. *ICRA 2023*.
+- **Learning Risk-Aware Costmaps via Inverse Reinforcement Learning for Off-Road Navigation.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161268)]
+   - Samuel Triest, Mateo Guaman Castro, Parv Maheshwari, Matthew Sivaprakasam, Wenshan Wang, Sebastian A. Scherer. *ICRA 2023*.
+- **DriveIRL: Drive in Real Life with Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160449)]
+   - Tung Phan-Minh, Forbes Howington, Ting-Sheng Chu, Momchil S. Tomov, Robert E. Beaudoin, Sang Uk Lee, Nanxiang Li, Caglayan Dicle, Samuel Findler, Francisco Suárez-Ruiz, Bo Yang, Sammy Omari, Eric M. Wolff. *ICRA 2023*.
+- **Show me What you want: Inverse Reinforcement Learning to Automatically Design Robot Swarms by Demonstration.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160947)]
+   - Ilyes Gharbi, Jonas Kuckling, David Garzón-Ramos, Mauro Birattari. *ICRA 2023*.
+- **Option-Aware Adversarial Inverse Reinforcement Learning for Robotic Control.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160374)]
+   - Jiayu Chen, Tian Lan, Vaneet Aggarwal. *ICRA 2023*.
+- **SoLo T-DIRL: Socially-Aware Dynamic Local Planner based on Trajectory-Ranked Deep Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160536)]
+   - Yifan Xu, Theodor Chakhachiro, Tribhi Kathuria, Maani Ghaffari. *ICRA 2023*.
+- **InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/550)]
+   - Yutong Ye, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, Xiang Lian. *IJCAI 2023*.
 
 ### Others
 
