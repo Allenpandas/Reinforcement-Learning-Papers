@@ -45,22 +45,7 @@ Please help to contribute this list by contacting me or add pull request.
 
 For any questions, feel free to contact me 📮.
 
-## Citation
 
-If you use this toolbox  in your research, please cite this project.
-
-```
-@misc{YalunAwesomeRLPapers,
-    author = {Yalun Wu},
-    title = {Awesome-Reinforcement-Learning-Papers},
-    year = {2023},
-    howpublished = {\url{https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers}}
-}
-```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Allenpandas/Awesome-Reinforcement-Learning-Papers&type=Date)](https://star-history.com/#Allenpandas/Awesome-Reinforcement-Learning-Papers&Date)
 
 ## Table of Contents
 
@@ -71,7 +56,7 @@ If you use this toolbox  in your research, please cite this project.
 - [5_Offline Reinforcement Learning](#5_Offline-Reinforcement-Learning)
 - [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
 
-### 1_Multi-Agent Reinforcement Learning
+## 1_Multi-Agent Reinforcement Learning
 
 - **Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i7.25973)]
    - Jiechuan Jiang, Zongqing Lu. *AAAI 2023*.
@@ -245,7 +230,7 @@ If you use this toolbox  in your research, please cite this project.
  - **DPMAC: Differentially Private Communication for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/516)]
    - Canzhe Zhao, Yanjie Ze, Jing Dong, Baoxiang Wang, Shuai Li. *IJCAI 2023*.
 
-### 2_Meta Reinforcement Learning
+## 2_Meta Reinforcement Learning
 
 - **Meta-Reinforcement Learning Based on Self-Supervised Task Representation Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i8.26210)]
    - Mingyang Wang, Zhenshan Bing, Xiangtong Yao, Shuai Wang, Kai Huang, Hang Su, Chenguang Yang, Alois Knoll. *AAAI 2023*.
@@ -264,7 +249,7 @@ If you use this toolbox  in your research, please cite this project.
 - **Zero-Shot Policy Transfer with Disentangled Task Representation of Meta-Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160764)]
    - Zheng Wu, Yichen Xie, Wenzhao Lian, Changhao Wang, Yanjiang Guo, Jianyu Chen, Stefan Schaal, Masayoshi Tomizuka. *ICRA 2023*.
 
-### 3_Hierarchical Reinforcement Learning
+## 3_Hierarchical Reinforcement Learning
 
  - **HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism.** [[pdf](https://doi.org/10.1609/aaai.v37i10.26386)]
    - Zhiwei Xu, Yunpeng Bai, Bin Zhang, Dapeng Li, Guoliang Fan. *AAAI 2023*.
@@ -283,7 +268,7 @@ If you use this toolbox  in your research, please cite this project.
  - **Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10160371)]
    - Kyowoon Lee, Seongun Kim, Jaesik Choi. *ICRA 2023*.
 
-### 4_Multi-Task Rinforcement Learning
+## 4_Multi-Task Rinforcement Learning
 
 - **PiCor: Multi-Task Deep Reinforcement Learning with Policy Correction.** [[pdf](https://doi.org/10.1609/aaai.v37i6.25825)]
    - Fengshuo Bai, Hongming Zhang, Tianyang Tao, Zhiheng Wu, Yanna Wang, Bo Xu. *AAAI 2023*.
@@ -294,14 +279,14 @@ If you use this toolbox  in your research, please cite this project.
 - **Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA48891.2023.10161447)]
    - Abhishek Gupta, Corey Lynch, Brandon Kinman, Garrett Peake, Sergey Levine, Karol Hausman. *ICRA 2023*.
 
-### 5_Offline Reinforcement Learning
+## 5_Offline Reinforcement Learning
 
 - **Offline Quantum Reinforcement Learning in a Conservative Manner.** [[pdf](https://doi.org/10.1609/aaai.v37i6.25872)]
   - Zhihao Cheng, Kaining Zhang, Li Shen, Dacheng Tao. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
  - **On the Sample Complexity of Vanilla Model-Based Offline Reinforcement Learning with Dependent Samples.** [[pdf](https://doi.org/10.1609/aaai.v37i7.25989)]
    - Mustafa O. Karabag, Ufuk Topcu. *AAAI Conference on Artificial Intelligence (AAAI 2023).* 
 
-### 6_Inverse Reinforcement Learning
+## 6_Inverse Reinforcement Learning
 
 - **Misspecification in Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v37i12.26766)]
    - Joar Skalse, Alessandro Abate. *AAAI 2023*.
@@ -342,7 +327,7 @@ If you use this toolbox  in your research, please cite this project.
 - **InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/550)]
    - Yutong Ye, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, Xiang Lian. *IJCAI 2023*.
 
-### Others
+## Others
 
 
 
@@ -395,3 +380,20 @@ If you use this toolbox  in your research, please cite this project.
 - **[ICRA 2017]** 2017 IEEE International Conference on Robotics and Automation, ICRA 2017, Singapore, Singapore, May 29 - June 3, 2017. [[Accepted Papers]](./2017/2017-ICRA)
 - **[26th IJCAI 2017]** Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017. [[Accepted Papers]](./2017/2017-IJCAI)
 - **[31st NIPS 2017]** Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA. [[Accepted Papers]](./2017/2017-NIPS)
+
+## Citation
+
+If you use this toolbox  in your research, please cite this project.
+
+```
+@misc{YalunAwesomeRLPapers,
+    author = {Yalun Wu},
+    title = {Awesome-Reinforcement-Learning-Papers},
+    year = {2023},
+    howpublished = {\url{https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers}}
+}
+```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Allenpandas/Awesome-Reinforcement-Learning-Papers&type=Date)](https://star-history.com/#Allenpandas/Awesome-Reinforcement-Learning-Papers&Date)
