@@ -47,15 +47,13 @@ Please help to contribute this list by contacting me or add pull request.
 
 For any questions, feel free to contact me 📮.
 
-
-
 ## Table of Contents
 
 - [1_Multi-Agent Reinforcement Learning (MARL)](#1_Multi-Agent-Reinforcement-Learning)
-- [2_Meta Reinforcement Learning](#2_Meta-Reinforcement-Learning)
-- [3_Hierarchical Reinforcement Learning](#3_Hierarchical-Reinforcement-Learning)
-- [4_Multi-Task Reinforcement Learning](#4_Multi-Task-Reinforcement-Learning)
-- [5_Offline Reinforcement Learning](#5_Offline-Reinforcement-Learning)
+- [2_Meta Reinforcement Learning (Meta RL)](#2_Meta-Reinforcement-Learning)
+- [3_Hierarchical Reinforcement Learning (HRL)](#3_Hierarchical-Reinforcement-Learning)
+- [4_Multi-Task Reinforcement Learning Multi-Task RL](#4_Multi-Task-Reinforcement-Learning)
+- [5_Offline Reinforcement Learning (Offline RL)](#5_Offline-Reinforcement-Learning)
 - [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
 
 ### 1_Multi-Agent Reinforcement Learning
