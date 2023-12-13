@@ -1,7 +1,11 @@
 # Awesome-Reinforcement-Learning-Papers
 <p align="center">
-  <img src="./overview.jpeg" alt="Reinforcement Learning!" style="height:400px">
+  <img src="./overview.jpg" alt="Reinforcement Learning!" style="height:400px">
 </p>
+
+**[中文](./README.zh-CN.md)** | **[English](./README.md)**
+
+
 
 Welcome to our GitHub repository! This repository is dedicated to curating significant research papers in the field of **Reinforcement Learning (RL)** that have been accepted at top academic conferences such as **AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** and more. We provide you with a convenient resource hub to help you stay updated on the latest developments in reinforcement learning, delve into research trends, and explore cutting-edge algorithms and methods.
 
