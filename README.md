@@ -2,7 +2,7 @@
   <img src="./overview.jpg" alt="Reinforcement Learning!" style="height:400px">
 </p>
 
-**[中文](./README.zh-CN.md)** | **[English](./README.md)**
+**[简体中文](./README.zh-CN.md)** | **[English](./README.md)**
 
 ## Introduction
 
