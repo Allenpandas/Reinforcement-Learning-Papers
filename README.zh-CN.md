@@ -2,27 +2,20 @@
   <img src="./overview.jpg" alt="Reinforcement Learning!" style="height:400px">
 </p>
 
-**[简体中文](./README.zh-CN.md)** | **[English](./README.md)**
 
-## 简介
+> 欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
 
-欢迎来到我们的GitHub仓库！这个仓库致力于记录 **强化学习** 领域在顶级学术会议，如：**AAAI**, **IJCAI**, **NeurIPS**, **ICML**, **ICLR**, **ICRA**, **AAMAS** 等录用的重要研究论文。我们为您提供了一个便捷的资源库，以帮助您跟踪最新的强化学习进展，深入了解领域内的研究趋势，并探讨最前沿的算法和方法。
+<p align='center'>
+<img src="https://img.shields.io/github/stars/Allenpandas/Reinforcement-Learning-Papers.svg">
+<img src="https://img.shields.io/github/forks/Allenpandas/Reinforcement-Learning-Papers.svg">
+<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
+<img src="https://img.shields.io/github/repo-size/Allenpandas/Reinforcement-Learning-Papers.svg">
+<img src="https://img.shields.io/github/issues/Allenpandas/Reinforcement-Learning-Papers.svg">
+<img src="https://img.shields.io/github/issues-pr/Allenpandas/Reinforcement-Learning-Papers.svg">
+</p>
 
-## 相关仓库
-
-| 仓库名称                                                     | 备注                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [强化学习论文集（按子方向划分）](https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers) | <a href="https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/Awesome-Reinforcement-Learning-Papers"></a> <a href="https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/Awesome-Reinforcement-Learning-Papers"></a> <a href="https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/Awesome-Reinforcement-Learning-Papers"></a> |
-| [强化学习入门教程](https://github.com/Allenpandas/Tutorial4RL) | <a href="https://github.com/Allenpandas/Tutorial4RL"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/Tutorial4RL"></a> <a href="https://github.com/Allenpandas/Tutorial4RL"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/Tutorial4RL"></a> <a href="https://github.com/Allenpandas/Tutorial4RL"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/Tutorial4RL"></a> |
-| [2023年强化学习方向顶会论文集](https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2022年强化学习方向顶会论文集](https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2021年强化学习方向顶会论文集](https://github.com/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2021-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2020年强化学习方向顶会论文集](https://github.com/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2020-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2019年强化学习方向顶会论文集](https://github.com/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2019-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2018年强化学习方向顶会论文集](https://github.com/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2018-Reinforcement-Learning-Conferences-Papers"></a> |
-| [2017年强化学习方向顶会论文集](https://github.com/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers) | <a href="https://github.com/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"></a> <a href="https://github.com/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2017-Reinforcement-Learning-Conferences-Papers"></a> |
-
-## 仓库新闻
+## 新闻
 
 - 2023/11/12: I added the related repository.
 - 2023/8/19: I added papers accepted at AAMAS'23, IJCAI'23, ICRA'23, ICML'23,ICLR'23, AAAI'23, NeurIPS'22 etc
@@ -43,7 +36,7 @@
   - Author 1, Author 2, and Author 3. *conference, year*.
 ```
 
-请通过联系我或添加拉请求（Pull Request）来帮助贡献此列表。
+请通过联系我或 [添加请求 ](https://github.com/Allenpandas/Reinforcement-Learning-Papers/pulls)来帮助贡献此列表。
 
 如有任何问题，请随时与我联系 📮.
 
@@ -334,12 +327,9 @@
 ```
 @misc{YalunAwesome,
     author = {Yalun Wu},
-    title = {Awesome-Reinforcement-Learning-Papers},
+    title = {Reinforcement-Learning-Papers},
     year = {2023},
-    howpublished = {\url{https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers}}
+    howpublished = {\url{https://github.com/Allenpandas/Reinforcement-Learning-Papers}}
 }
 ```
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Allenpandas/Awesome-Reinforcement-Learning-Papers&type=Date)](https://star-history.com/#Allenpandas/Awesome-Reinforcement-Learning-Papers&Date)
