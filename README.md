@@ -327,9 +327,9 @@ If you use this toolbox  in your research, please cite this project.
 ```
 @misc{YalunAwesome,
     author = {Yalun Wu},
-    title = {Awesome-Reinforcement-Learning-Papers},
+    title = {Reinforcement-Learning-Papers},
     year = {2023},
-    howpublished = {\url{https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers}}
+    howpublished = {\url{https://github.com/Allenpandas/Reinforcement-Learning-Papers}}
 }
 ```
 
