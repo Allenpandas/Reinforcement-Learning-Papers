@@ -35,7 +35,7 @@
   - Author 1, Author 2, and Author 3. *conference, year*.
 ```
 
-Please help to contribute this list by contacting me or add pull request. 
+Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Reinforcement-Learning-Papers/pulls). 
 
 For any questions, feel free to contact me 📮.
 
