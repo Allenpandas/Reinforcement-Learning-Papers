@@ -48,6 +48,7 @@ For any questions, feel free to contact me 📮.
 - [4_Multi-Task Reinforcement Learning (Multi-Task RL)](#4_Multi-Task-Reinforcement-Learning)
 - [5_Offline Reinforcement Learning (Offline RL)](#5_Offline-Reinforcement-Learning)
 - [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
+- [7_Reinforcement Learning with Large Language Models]
 
 ### 1_Multi-Agent Reinforcement Learning
 
@@ -320,6 +321,20 @@ For any questions, feel free to contact me 📮.
 - **InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2023/550)]
    - Yutong Ye, Yingbo Zhou, Jiepin Ding, Ting Wang, Mingsong Chen, Xiang Lian. *IJCAI 2023*.
 
+### 7_Reinforcement Learning with Large Language Models
+- **Deep Reinforcement Learning from Human Preferences** [[pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)]
+  - Paul F. Christiano, Jan Leike, Tom Brown, Miljan Martic, Shane Legg, Dario Amodei *NeurIPS 2017*.
+- **Training Language Models to Follow Instructions with Human Feedback** [[pdf](https://doi.org/10.48550/arXiv.2203.02155)]
+  - Long et. al. *NeurIPS 2022*.
+- **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** [[pdf](https://doi.org/10.48550/arXiv.2305.18290)]
+  - Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn *NeurIPS 2023*.
+- **Guiding Pretraining in Reinforcement Learning with Large Language Models** [[pdf](https://doi.org/10.48550/arXiv.2302.06692)]
+  - Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas *ICML 2023*.
+- **Reward Design with Language Models** [[pdf](https://doi.org/10.48550/arXiv.2303.00001)]
+  - Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh *ICLR 2023*.
+- **Pre-Trained Language Models for Interactive Decision-Making** [[pdf](https://doi.org/10.48550/arXiv.2202.01771)]
+  - Li et. al. *NeurIPS 2022*.
+  
 ## Citation
 
 If you use this toolbox  in your research, please cite this project.
