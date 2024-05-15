@@ -48,7 +48,7 @@ For any questions, feel free to contact me 📮.
 - [4_Multi-Task Reinforcement Learning (Multi-Task RL)](#4_Multi-Task-Reinforcement-Learning)
 - [5_Offline Reinforcement Learning (Offline RL)](#5_Offline-Reinforcement-Learning)
 - [6_Inverse Reinforcement Learning (IRL)](#6_Inverse-Reinforcement-Learning)
-- [7_Reinforcement Learning with Large Language Models]
+- [7_Reinforcement Learning with Large Language Models](#7_Reinforcement-Learning-with-Large-Language-Models)
 
 ### 1_Multi-Agent Reinforcement Learning
 
